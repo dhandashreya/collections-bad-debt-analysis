@@ -1,0 +1,1751 @@
+snapshot_date,region,segment,aging_bucket,invoices,balance
+2023-12-31,Alberta,Enterprise,1-30,1,75538.23
+2023-12-31,Alberta,Enterprise,Current,33,1729727.5
+2023-12-31,Alberta,Mid-Market,1-30,2,42998.91
+2023-12-31,Alberta,Mid-Market,31-60,2,13634.83
+2023-12-31,Alberta,Mid-Market,61-90,1,13654.22
+2023-12-31,Alberta,Mid-Market,Current,25,279204.13
+2023-12-31,Alberta,SMB,1-30,5,14530.84
+2023-12-31,Alberta,SMB,31-60,1,2575.7
+2023-12-31,Alberta,SMB,61-90,2,6565.51
+2023-12-31,Alberta,SMB,91-120,1,2250.39
+2023-12-31,Alberta,SMB,Current,30,69061.42
+2023-12-31,Atlantic,Enterprise,1-30,1,28434.16
+2023-12-31,Atlantic,Enterprise,Current,11,421096.08
+2023-12-31,Atlantic,Mid-Market,1-30,2,15621.17
+2023-12-31,Atlantic,Mid-Market,Current,8,130715.88
+2023-12-31,Atlantic,SMB,1-30,1,4260.91
+2023-12-31,Atlantic,SMB,120+,1,3516.54
+2023-12-31,Atlantic,SMB,31-60,3,9115.8
+2023-12-31,Atlantic,SMB,Current,11,28468.66
+2023-12-31,British Columbia,Enterprise,Current,10,507167.96
+2023-12-31,British Columbia,Mid-Market,1-30,3,27173.5
+2023-12-31,British Columbia,Mid-Market,31-60,1,16632.06
+2023-12-31,British Columbia,Mid-Market,61-90,1,5129.68
+2023-12-31,British Columbia,Mid-Market,91-120,1,14572.15
+2023-12-31,British Columbia,Mid-Market,Current,32,398405.26
+2023-12-31,British Columbia,SMB,1-30,5,10573.5
+2023-12-31,British Columbia,SMB,120+,2,4193.47
+2023-12-31,British Columbia,SMB,31-60,3,6103.82
+2023-12-31,British Columbia,SMB,61-90,3,6875.42
+2023-12-31,British Columbia,SMB,Current,25,70607.5
+2023-12-31,Ontario,Enterprise,1-30,1,21835.55
+2023-12-31,Ontario,Enterprise,31-60,2,157209.6
+2023-12-31,Ontario,Enterprise,61-90,3,129273.42
+2023-12-31,Ontario,Enterprise,Current,36,2425956.52
+2023-12-31,Ontario,Mid-Market,1-30,4,39175.85
+2023-12-31,Ontario,Mid-Market,120+,1,12918.32
+2023-12-31,Ontario,Mid-Market,31-60,2,20451.24
+2023-12-31,Ontario,Mid-Market,61-90,2,24267.24
+2023-12-31,Ontario,Mid-Market,91-120,1,11461.58
+2023-12-31,Ontario,Mid-Market,Current,54,734353.37
+2023-12-31,Ontario,SMB,1-30,15,40814.39
+2023-12-31,Ontario,SMB,120+,3,19145.69
+2023-12-31,Ontario,SMB,31-60,6,13825.64
+2023-12-31,Ontario,SMB,61-90,6,17418.39
+2023-12-31,Ontario,SMB,91-120,2,4106.96
+2023-12-31,Ontario,SMB,Current,58,159901.92
+2023-12-31,Prairies,Enterprise,Current,7,384188.14
+2023-12-31,Prairies,Mid-Market,1-30,1,35729.57
+2023-12-31,Prairies,Mid-Market,Current,18,283858.07
+2023-12-31,Prairies,SMB,1-30,3,14030.16
+2023-12-31,Prairies,SMB,61-90,5,14755.89
+2023-12-31,Prairies,SMB,91-120,1,531.46
+2023-12-31,Prairies,SMB,Current,14,40105.9
+2023-12-31,Quebec,Enterprise,31-60,2,110036.91
+2023-12-31,Quebec,Enterprise,91-120,1,45354.35
+2023-12-31,Quebec,Enterprise,Current,46,2681475.05
+2023-12-31,Quebec,Mid-Market,1-30,3,38498.57
+2023-12-31,Quebec,Mid-Market,120+,1,6390.48
+2023-12-31,Quebec,Mid-Market,61-90,2,35323.54
+2023-12-31,Quebec,Mid-Market,Current,29,357370.71
+2023-12-31,Quebec,SMB,1-30,4,8241.56
+2023-12-31,Quebec,SMB,120+,1,638.52
+2023-12-31,Quebec,SMB,31-60,3,9326.55
+2023-12-31,Quebec,SMB,61-90,4,9846.34
+2023-12-31,Quebec,SMB,91-120,2,3506.59
+2023-12-31,Quebec,SMB,Current,36,99885.86
+2024-01-31,Alberta,Enterprise,1-30,2,79533.15
+2024-01-31,Alberta,Enterprise,31-60,1,75538.23
+2024-01-31,Alberta,Enterprise,Current,31,1806544.44
+2024-01-31,Alberta,Mid-Market,1-30,3,30391.83
+2024-01-31,Alberta,Mid-Market,Current,19,299160.26
+2024-01-31,Alberta,SMB,1-30,11,25707.75
+2024-01-31,Alberta,SMB,31-60,1,5198.39
+2024-01-31,Alberta,SMB,61-90,2,2764.06
+2024-01-31,Alberta,SMB,91-120,1,1818.59
+2024-01-31,Alberta,SMB,Current,17,50890.32
+2024-01-31,Atlantic,Enterprise,1-30,1,27775.61
+2024-01-31,Atlantic,Enterprise,31-60,1,27028.29
+2024-01-31,Atlantic,Enterprise,Current,9,485319.89
+2024-01-31,Atlantic,Mid-Market,Current,4,80638.63
+2024-01-31,Atlantic,SMB,1-30,5,8412.45
+2024-01-31,Atlantic,SMB,120+,1,3516.54
+2024-01-31,Atlantic,SMB,31-60,1,4260.91
+2024-01-31,Atlantic,SMB,61-90,2,5096.79
+2024-01-31,Atlantic,SMB,Current,21,57080.76
+2024-01-31,British Columbia,Enterprise,Current,13,793206.9
+2024-01-31,British Columbia,Mid-Market,1-30,5,69149.37
+2024-01-31,British Columbia,Mid-Market,120+,1,14572.15
+2024-01-31,British Columbia,Mid-Market,91-120,1,5129.68
+2024-01-31,British Columbia,Mid-Market,Current,33,374071.12
+2024-01-31,British Columbia,SMB,1-30,4,11303.88
+2024-01-31,British Columbia,SMB,120+,2,4193.47
+2024-01-31,British Columbia,SMB,31-60,1,2426.51
+2024-01-31,British Columbia,SMB,61-90,2,3859.67
+2024-01-31,British Columbia,SMB,91-120,3,6875.42
+2024-01-31,British Columbia,SMB,Current,17,42761.66
+2024-01-31,Ontario,Enterprise,1-30,5,187088.98
+2024-01-31,Ontario,Enterprise,31-60,1,21835.55
+2024-01-31,Ontario,Enterprise,61-90,1,94567.75
+2024-01-31,Ontario,Enterprise,91-120,3,129273.42
+2024-01-31,Ontario,Enterprise,Current,36,2483077.86
+2024-01-31,Ontario,Mid-Market,1-30,5,67873.19
+2024-01-31,Ontario,Mid-Market,120+,1,12918.32
+2024-01-31,Ontario,Mid-Market,31-60,3,27587.33
+2024-01-31,Ontario,Mid-Market,61-90,2,20451.24
+2024-01-31,Ontario,Mid-Market,91-120,2,24267.24
+2024-01-31,Ontario,Mid-Market,Current,64,832416.55
+2024-01-31,Ontario,SMB,1-30,15,39346.1
+2024-01-31,Ontario,SMB,120+,4,14723.47
+2024-01-31,Ontario,SMB,31-60,10,29466.38
+2024-01-31,Ontario,SMB,61-90,4,8753.17
+2024-01-31,Ontario,SMB,91-120,4,10823.27
+2024-01-31,Ontario,SMB,Current,52,153429.43
+2024-01-31,Prairies,Enterprise,Current,4,204972.06
+2024-01-31,Prairies,Mid-Market,1-30,2,36630.84
+2024-01-31,Prairies,Mid-Market,Current,13,209570.11
+2024-01-31,Prairies,SMB,1-30,2,5366.38
+2024-01-31,Prairies,SMB,120+,1,531.46
+2024-01-31,Prairies,SMB,91-120,4,11010.33
+2024-01-31,Prairies,SMB,Current,8,16470.05
+2024-01-31,Quebec,Enterprise,1-30,2,89316.65
+2024-01-31,Quebec,Enterprise,120+,1,45354.35
+2024-01-31,Quebec,Enterprise,61-90,2,110036.91
+2024-01-31,Quebec,Enterprise,Current,39,2145631.54
+2024-01-31,Quebec,Mid-Market,1-30,4,57033.81
+2024-01-31,Quebec,Mid-Market,120+,1,6390.48
+2024-01-31,Quebec,Mid-Market,31-60,2,26633.51
+2024-01-31,Quebec,Mid-Market,91-120,2,35323.54
+2024-01-31,Quebec,Mid-Market,Current,31,496342.44
+2024-01-31,Quebec,SMB,1-30,16,49295.66
+2024-01-31,Quebec,SMB,120+,3,4145.11
+2024-01-31,Quebec,SMB,31-60,3,7677.89
+2024-01-31,Quebec,SMB,61-90,2,3822.7
+2024-01-31,Quebec,SMB,91-120,2,7430.28
+2024-01-31,Quebec,SMB,Current,34,104871.32
+2024-02-29,Alberta,Enterprise,31-60,1,18351.57
+2024-02-29,Alberta,Enterprise,61-90,1,75538.23
+2024-02-29,Alberta,Enterprise,Current,40,2354847.92
+2024-02-29,Alberta,Mid-Market,31-60,2,17385.42
+2024-02-29,Alberta,Mid-Market,Current,22,276502.84
+2024-02-29,Alberta,SMB,1-30,2,2646.25
+2024-02-29,Alberta,SMB,120+,1,1818.59
+2024-02-29,Alberta,SMB,31-60,4,8699.84
+2024-02-29,Alberta,SMB,61-90,2,5672.6
+2024-02-29,Alberta,SMB,91-120,1,1815.03
+2024-02-29,Alberta,SMB,Current,25,76366.88
+2024-02-29,Atlantic,Enterprise,Current,8,546962.93
+2024-02-29,Atlantic,Mid-Market,1-30,1,26056.16
+2024-02-29,Atlantic,Mid-Market,Current,7,85186.0
+2024-02-29,Atlantic,SMB,1-30,7,18891.96
+2024-02-29,Atlantic,SMB,120+,1,3516.54
+2024-02-29,Atlantic,SMB,31-60,2,4686.96
+2024-02-29,Atlantic,SMB,91-120,2,5096.79
+2024-02-29,Atlantic,SMB,Current,13,39316.12
+2024-02-29,British Columbia,Enterprise,1-30,1,57297.44
+2024-02-29,British Columbia,Enterprise,Current,10,726633.17
+2024-02-29,British Columbia,Mid-Market,1-30,4,42922.89
+2024-02-29,British Columbia,Mid-Market,120+,1,14572.15
+2024-02-29,British Columbia,Mid-Market,31-60,2,21194.03
+2024-02-29,British Columbia,Mid-Market,Current,37,458521.85
+2024-02-29,British Columbia,SMB,1-30,2,8348.81
+2024-02-29,British Columbia,SMB,120+,3,6875.42
+2024-02-29,British Columbia,SMB,31-60,1,5680.38
+2024-02-29,British Columbia,SMB,91-120,2,3859.67
+2024-02-29,British Columbia,SMB,Current,17,41152.67
+2024-02-29,Ontario,Enterprise,1-30,3,213268.45
+2024-02-29,Ontario,Enterprise,120+,3,129273.42
+2024-02-29,Ontario,Enterprise,31-60,2,46202.02
+2024-02-29,Ontario,Enterprise,61-90,1,21835.55
+2024-02-29,Ontario,Enterprise,91-120,1,94567.75
+2024-02-29,Ontario,Enterprise,Current,39,2183084.81
+2024-02-29,Ontario,Mid-Market,1-30,9,120381.73
+2024-02-29,Ontario,Mid-Market,120+,2,24267.24
+2024-02-29,Ontario,Mid-Market,31-60,1,15726.73
+2024-02-29,Ontario,Mid-Market,61-90,1,5671.59
+2024-02-29,Ontario,Mid-Market,91-120,2,20451.24
+2024-02-29,Ontario,Mid-Market,Current,61,882229.82
+2024-02-29,Ontario,SMB,1-30,13,38889.67
+2024-02-29,Ontario,SMB,120+,7,21024.52
+2024-02-29,Ontario,SMB,31-60,8,21726.62
+2024-02-29,Ontario,SMB,61-90,5,13384.2
+2024-02-29,Ontario,SMB,91-120,3,6028.83
+2024-02-29,Ontario,SMB,Current,62,175340.57
+2024-02-29,Prairies,Enterprise,Current,9,416441.96
+2024-02-29,Prairies,Mid-Market,1-30,1,21203.98
+2024-02-29,Prairies,Mid-Market,31-60,1,15789.6
+2024-02-29,Prairies,Mid-Market,Current,19,275073.64
+2024-02-29,Prairies,SMB,1-30,3,4884.31
+2024-02-29,Prairies,SMB,120+,4,11010.33
+2024-02-29,Prairies,SMB,31-60,1,3930.61
+2024-02-29,Prairies,SMB,Current,10,31481.24
+2024-02-29,Quebec,Enterprise,1-30,2,173448.31
+2024-02-29,Quebec,Enterprise,120+,1,45354.35
+2024-02-29,Quebec,Enterprise,31-60,1,29640.03
+2024-02-29,Quebec,Enterprise,91-120,2,110036.91
+2024-02-29,Quebec,Enterprise,Current,28,1344190.61
+2024-02-29,Quebec,Mid-Market,1-30,2,65177.03
+2024-02-29,Quebec,Mid-Market,120+,2,35323.54
+2024-02-29,Quebec,Mid-Market,61-90,2,19985.33
+2024-02-29,Quebec,Mid-Market,Current,27,378153.62
+2024-02-29,Quebec,SMB,1-30,9,24630.49
+2024-02-29,Quebec,SMB,120+,2,7430.28
+2024-02-29,Quebec,SMB,31-60,8,19032.2
+2024-02-29,Quebec,SMB,61-90,2,4788.82
+2024-02-29,Quebec,SMB,91-120,1,2469.09
+2024-02-29,Quebec,SMB,Current,33,90127.55
+2024-03-31,Alberta,Enterprise,1-30,4,212103.97
+2024-03-31,Alberta,Enterprise,91-120,1,75538.23
+2024-03-31,Alberta,Enterprise,Current,32,1701914.74
+2024-03-31,Alberta,Mid-Market,1-30,1,11189.85
+2024-03-31,Alberta,Mid-Market,61-90,2,17385.42
+2024-03-31,Alberta,Mid-Market,Current,17,208405.76
+2024-03-31,Alberta,SMB,1-30,11,43500.35
+2024-03-31,Alberta,SMB,120+,1,1815.03
+2024-03-31,Alberta,SMB,31-60,1,1152.5
+2024-03-31,Alberta,SMB,61-90,2,4875.49
+2024-03-31,Alberta,SMB,91-120,1,5198.39
+2024-03-31,Alberta,SMB,Current,16,40700.04
+2024-03-31,Atlantic,Enterprise,Current,7,336904.05
+2024-03-31,Atlantic,Mid-Market,1-30,1,11569.7
+2024-03-31,Atlantic,Mid-Market,Current,5,65499.31
+2024-03-31,Atlantic,SMB,1-30,3,10682.71
+2024-03-31,Atlantic,SMB,120+,2,5096.79
+2024-03-31,Atlantic,SMB,31-60,4,10396.79
+2024-03-31,Atlantic,SMB,61-90,2,4686.96
+2024-03-31,Atlantic,SMB,Current,15,41231.31
+2024-03-31,British Columbia,Enterprise,1-30,1,23205.69
+2024-03-31,British Columbia,Enterprise,Current,12,628248.57
+2024-03-31,British Columbia,Mid-Market,1-30,5,53883.61
+2024-03-31,British Columbia,Mid-Market,61-90,2,20358.47
+2024-03-31,British Columbia,Mid-Market,Current,24,395606.53
+2024-03-31,British Columbia,SMB,1-30,4,9523.44
+2024-03-31,British Columbia,SMB,120+,2,3859.67
+2024-03-31,British Columbia,SMB,61-90,1,5680.38
+2024-03-31,British Columbia,SMB,Current,21,55797.55
+2024-03-31,Ontario,Enterprise,1-30,2,82089.13
+2024-03-31,Ontario,Enterprise,120+,4,223841.17
+2024-03-31,Ontario,Enterprise,31-60,2,95546.22
+2024-03-31,Ontario,Enterprise,61-90,1,23917.79
+2024-03-31,Ontario,Enterprise,Current,39,1937836.47
+2024-03-31,Ontario,Mid-Market,1-30,6,84503.65
+2024-03-31,Ontario,Mid-Market,120+,3,28181.23
+2024-03-31,Ontario,Mid-Market,31-60,3,32086.27
+2024-03-31,Ontario,Mid-Market,61-90,1,15726.73
+2024-03-31,Ontario,Mid-Market,91-120,1,4698.37
+2024-03-31,Ontario,Mid-Market,Current,48,703173.53
+2024-03-31,Ontario,SMB,1-30,15,55016.98
+2024-03-31,Ontario,SMB,120+,6,12626.5
+2024-03-31,Ontario,SMB,31-60,5,24487.44
+2024-03-31,Ontario,SMB,61-90,3,7152.39
+2024-03-31,Ontario,SMB,91-120,5,13225.77
+2024-03-31,Ontario,SMB,Current,54,158704.93
+2024-03-31,Prairies,Enterprise,Current,11,484994.64
+2024-03-31,Prairies,Mid-Market,1-30,2,35414.1
+2024-03-31,Prairies,Mid-Market,61-90,1,15789.6
+2024-03-31,Prairies,Mid-Market,Current,20,198040.22
+2024-03-31,Prairies,SMB,1-30,3,11539.9
+2024-03-31,Prairies,SMB,120+,4,11010.33
+2024-03-31,Prairies,SMB,31-60,1,2549.7
+2024-03-31,Prairies,SMB,Current,13,38122.99
+2024-03-31,Quebec,Enterprise,1-30,2,75602.11
+2024-03-31,Quebec,Enterprise,120+,2,64482.81
+2024-03-31,Quebec,Enterprise,61-90,1,29640.03
+2024-03-31,Quebec,Enterprise,Current,24,1058840.41
+2024-03-31,Quebec,Mid-Market,1-30,3,47084.46
+2024-03-31,Quebec,Mid-Market,91-120,2,19985.33
+2024-03-31,Quebec,Mid-Market,Current,17,192184.84
+2024-03-31,Quebec,SMB,1-30,7,25907.86
+2024-03-31,Quebec,SMB,120+,3,9899.37
+2024-03-31,Quebec,SMB,31-60,5,16433.39
+2024-03-31,Quebec,SMB,61-90,2,2921.39
+2024-03-31,Quebec,SMB,91-120,1,1881.21
+2024-03-31,Quebec,SMB,Current,25,73808.27
+2024-04-30,Alberta,Enterprise,120+,1,75538.23
+2024-04-30,Alberta,Enterprise,Current,27,1287258.61
+2024-04-30,Alberta,Mid-Market,1-30,3,23339.69
+2024-04-30,Alberta,Mid-Market,91-120,1,7080.36
+2024-04-30,Alberta,Mid-Market,Current,15,182992.07
+2024-04-30,Alberta,SMB,1-30,8,17329.21
+2024-04-30,Alberta,SMB,120+,2,7013.42
+2024-04-30,Alberta,SMB,31-60,8,32292.25
+2024-04-30,Alberta,SMB,91-120,2,4875.49
+2024-04-30,Alberta,SMB,Current,31,84342.83
+2024-04-30,Atlantic,Enterprise,1-30,1,41227.45
+2024-04-30,Atlantic,Enterprise,Current,7,392820.23
+2024-04-30,Atlantic,Mid-Market,1-30,1,20449.29
+2024-04-30,Atlantic,Mid-Market,Current,7,94115.52
+2024-04-30,Atlantic,SMB,1-30,2,5099.74
+2024-04-30,Atlantic,SMB,120+,1,4295.87
+2024-04-30,Atlantic,SMB,31-60,1,3109.52
+2024-04-30,Atlantic,SMB,61-90,2,6951.57
+2024-04-30,Atlantic,SMB,Current,17,65693.65
+2024-04-30,British Columbia,Enterprise,31-60,1,23205.69
+2024-04-30,British Columbia,Enterprise,Current,14,695940.44
+2024-04-30,British Columbia,Mid-Market,91-120,2,20358.47
+2024-04-30,British Columbia,Mid-Market,Current,23,282835.28
+2024-04-30,British Columbia,SMB,1-30,4,11162.12
+2024-04-30,British Columbia,SMB,120+,1,2102.33
+2024-04-30,British Columbia,SMB,31-60,2,6845.61
+2024-04-30,British Columbia,SMB,91-120,1,5680.38
+2024-04-30,British Columbia,SMB,Current,19,63538.94
+2024-04-30,Ontario,Enterprise,1-30,1,74231.15
+2024-04-30,Ontario,Enterprise,120+,2,48838.48
+2024-04-30,Ontario,Enterprise,31-60,1,60852.73
+2024-04-30,Ontario,Enterprise,61-90,1,59675.14
+2024-04-30,Ontario,Enterprise,91-120,1,23917.79
+2024-04-30,Ontario,Enterprise,Current,34,2016023.75
+2024-04-30,Ontario,Mid-Market,1-30,6,100697.82
+2024-04-30,Ontario,Mid-Market,120+,3,20966.6
+2024-04-30,Ontario,Mid-Market,31-60,1,36242.19
+2024-04-30,Ontario,Mid-Market,61-90,2,19359.13
+2024-04-30,Ontario,Mid-Market,91-120,1,15726.73
+2024-04-30,Ontario,Mid-Market,Current,51,721429.26
+2024-04-30,Ontario,SMB,1-30,19,55767.1
+2024-04-30,Ontario,SMB,120+,6,11770.9
+2024-04-30,Ontario,SMB,31-60,5,20994.28
+2024-04-30,Ontario,SMB,61-90,4,17311.97
+2024-04-30,Ontario,SMB,91-120,3,6784.86
+2024-04-30,Ontario,SMB,Current,58,195764.92
+2024-04-30,Prairies,Enterprise,Current,6,221660.5
+2024-04-30,Prairies,Mid-Market,1-30,2,34079.89
+2024-04-30,Prairies,Mid-Market,31-60,2,35414.1
+2024-04-30,Prairies,Mid-Market,Current,15,222896.16
+2024-04-30,Prairies,SMB,120+,1,1468.78
+2024-04-30,Prairies,SMB,31-60,2,8152.18
+2024-04-30,Prairies,SMB,61-90,1,2549.7
+2024-04-30,Prairies,SMB,Current,19,49489.22
+2024-04-30,Quebec,Enterprise,1-30,2,105500.47
+2024-04-30,Quebec,Enterprise,120+,1,19128.46
+2024-04-30,Quebec,Enterprise,91-120,1,29640.03
+2024-04-30,Quebec,Enterprise,Current,37,2114582.34
+2024-04-30,Quebec,Mid-Market,1-30,1,12125.55
+2024-04-30,Quebec,Mid-Market,120+,1,13633.23
+2024-04-30,Quebec,Mid-Market,31-60,1,7360.79
+2024-04-30,Quebec,Mid-Market,Current,33,478205.93
+2024-04-30,Quebec,SMB,1-30,6,15267.09
+2024-04-30,Quebec,SMB,120+,2,6011.89
+2024-04-30,Quebec,SMB,31-60,5,19370.49
+2024-04-30,Quebec,SMB,61-90,3,6669.3
+2024-04-30,Quebec,SMB,91-120,2,2921.39
+2024-04-30,Quebec,SMB,Current,19,41458.66
+2024-05-31,Alberta,Enterprise,1-30,1,33688.44
+2024-05-31,Alberta,Enterprise,120+,1,75538.23
+2024-05-31,Alberta,Enterprise,Current,30,1749449.1
+2024-05-31,Alberta,Mid-Market,1-30,4,45756.71
+2024-05-31,Alberta,Mid-Market,120+,1,7080.36
+2024-05-31,Alberta,Mid-Market,31-60,2,29804.74
+2024-05-31,Alberta,Mid-Market,Current,26,419043.82
+2024-05-31,Alberta,SMB,1-30,12,39745.61
+2024-05-31,Alberta,SMB,120+,2,4875.49
+2024-05-31,Alberta,SMB,31-60,3,6944.6
+2024-05-31,Alberta,SMB,61-90,5,22838.03
+2024-05-31,Alberta,SMB,Current,24,63266.84
+2024-05-31,Atlantic,Enterprise,1-30,1,20898.77
+2024-05-31,Atlantic,Enterprise,Current,7,354670.88
+2024-05-31,Atlantic,Mid-Market,31-60,1,20449.29
+2024-05-31,Atlantic,Mid-Market,Current,4,81070.66
+2024-05-31,Atlantic,SMB,1-30,2,4852.29
+2024-05-31,Atlantic,SMB,120+,1,4198.0
+2024-05-31,Atlantic,SMB,61-90,1,3109.52
+2024-05-31,Atlantic,SMB,Current,11,24516.75
+2024-05-31,British Columbia,Enterprise,Current,11,548663.6
+2024-05-31,British Columbia,Mid-Market,1-30,5,46240.83
+2024-05-31,British Columbia,Mid-Market,120+,1,6261.35
+2024-05-31,British Columbia,Mid-Market,Current,28,316722.55
+2024-05-31,British Columbia,SMB,1-30,4,9984.32
+2024-05-31,British Columbia,SMB,31-60,1,4014.55
+2024-05-31,British Columbia,SMB,61-90,2,6845.61
+2024-05-31,British Columbia,SMB,Current,19,54262.97
+2024-05-31,Ontario,Enterprise,1-30,1,76507.43
+2024-05-31,Ontario,Enterprise,120+,1,23917.79
+2024-05-31,Ontario,Enterprise,31-60,1,74231.15
+2024-05-31,Ontario,Enterprise,61-90,1,60852.73
+2024-05-31,Ontario,Enterprise,Current,35,2453292.62
+2024-05-31,Ontario,Mid-Market,1-30,5,45565.92
+2024-05-31,Ontario,Mid-Market,120+,1,4698.37
+2024-05-31,Ontario,Mid-Market,31-60,4,66034.18
+2024-05-31,Ontario,Mid-Market,61-90,1,36242.19
+2024-05-31,Ontario,Mid-Market,91-120,2,19359.13
+2024-05-31,Ontario,Mid-Market,Current,53,596955.12
+2024-05-31,Ontario,SMB,1-30,15,46740.71
+2024-05-31,Ontario,SMB,120+,8,19644.41
+2024-05-31,Ontario,SMB,31-60,12,33070.03
+2024-05-31,Ontario,SMB,61-90,4,17797.51
+2024-05-31,Ontario,SMB,91-120,3,11722.14
+2024-05-31,Ontario,SMB,Current,58,180166.63
+2024-05-31,Prairies,Enterprise,Current,8,697511.21
+2024-05-31,Prairies,Mid-Market,1-30,1,7111.33
+2024-05-31,Prairies,Mid-Market,31-60,1,6044.05
+2024-05-31,Prairies,Mid-Market,61-90,2,35414.1
+2024-05-31,Prairies,Mid-Market,Current,17,260724.28
+2024-05-31,Prairies,SMB,1-30,6,14858.08
+2024-05-31,Prairies,SMB,61-90,1,5895.35
+2024-05-31,Prairies,SMB,91-120,1,2549.7
+2024-05-31,Prairies,SMB,Current,17,50171.87
+2024-05-31,Quebec,Enterprise,1-30,5,324936.33
+2024-05-31,Quebec,Enterprise,120+,1,29640.03
+2024-05-31,Quebec,Enterprise,31-60,1,28607.83
+2024-05-31,Quebec,Enterprise,Current,45,2845407.1
+2024-05-31,Quebec,Mid-Market,1-30,4,53320.5
+2024-05-31,Quebec,Mid-Market,120+,1,13633.23
+2024-05-31,Quebec,Mid-Market,31-60,1,12125.55
+2024-05-31,Quebec,Mid-Market,61-90,1,7360.79
+2024-05-31,Quebec,Mid-Market,Current,24,311683.05
+2024-05-31,Quebec,SMB,1-30,1,2536.27
+2024-05-31,Quebec,SMB,120+,4,6823.99
+2024-05-31,Quebec,SMB,31-60,3,10582.56
+2024-05-31,Quebec,SMB,61-90,3,10879.72
+2024-05-31,Quebec,SMB,91-120,3,9138.88
+2024-05-31,Quebec,SMB,Current,30,88969.07
+2024-06-30,Alberta,Enterprise,1-30,3,111414.83
+2024-06-30,Alberta,Enterprise,120+,1,75538.23
+2024-06-30,Alberta,Enterprise,Current,26,1521253.87
+2024-06-30,Alberta,Mid-Market,1-30,5,80042.49
+2024-06-30,Alberta,Mid-Market,120+,1,7080.36
+2024-06-30,Alberta,Mid-Market,61-90,1,9183.8
+2024-06-30,Alberta,Mid-Market,Current,28,494789.46
+2024-06-30,Alberta,SMB,1-30,3,4957.79
+2024-06-30,Alberta,SMB,120+,1,1534.58
+2024-06-30,Alberta,SMB,31-60,6,26283.31
+2024-06-30,Alberta,SMB,61-90,3,5568.43
+2024-06-30,Alberta,SMB,91-120,2,3402.16
+2024-06-30,Alberta,SMB,Current,22,54750.35
+2024-06-30,Atlantic,Enterprise,Current,8,436589.18
+2024-06-30,Atlantic,Mid-Market,1-30,1,6123.93
+2024-06-30,Atlantic,Mid-Market,61-90,1,20449.29
+2024-06-30,Atlantic,Mid-Market,Current,2,65940.75
+2024-06-30,Atlantic,SMB,1-30,4,5399.3
+2024-06-30,Atlantic,SMB,120+,1,4198.0
+2024-06-30,Atlantic,SMB,91-120,1,3109.52
+2024-06-30,Atlantic,SMB,Current,12,34031.56
+2024-06-30,British Columbia,Enterprise,Current,5,184218.62
+2024-06-30,British Columbia,Mid-Market,1-30,4,37797.64
+2024-06-30,British Columbia,Mid-Market,120+,1,6261.35
+2024-06-30,British Columbia,Mid-Market,31-60,1,16480.4
+2024-06-30,British Columbia,Mid-Market,Current,28,429042.78
+2024-06-30,British Columbia,SMB,1-30,5,14197.13
+2024-06-30,British Columbia,SMB,61-90,1,4014.55
+2024-06-30,British Columbia,SMB,91-120,2,6845.61
+2024-06-30,British Columbia,SMB,Current,24,86651.38
+2024-06-30,Ontario,Enterprise,1-30,2,194153.76
+2024-06-30,Ontario,Enterprise,120+,1,23917.79
+2024-06-30,Ontario,Enterprise,31-60,1,76507.43
+2024-06-30,Ontario,Enterprise,61-90,1,74231.15
+2024-06-30,Ontario,Enterprise,91-120,1,60852.73
+2024-06-30,Ontario,Enterprise,Current,34,2368746.26
+2024-06-30,Ontario,Mid-Market,1-30,6,57170.29
+2024-06-30,Ontario,Mid-Market,120+,2,19359.13
+2024-06-30,Ontario,Mid-Market,31-60,1,9530.62
+2024-06-30,Ontario,Mid-Market,61-90,3,54300.97
+2024-06-30,Ontario,Mid-Market,91-120,1,36242.19
+2024-06-30,Ontario,Mid-Market,Current,72,1048901.58
+2024-06-30,Ontario,SMB,1-30,19,52516.4
+2024-06-30,Ontario,SMB,120+,9,24562.49
+2024-06-30,Ontario,SMB,31-60,6,15553.42
+2024-06-30,Ontario,SMB,61-90,8,25009.06
+2024-06-30,Ontario,SMB,91-120,4,17797.51
+2024-06-30,Ontario,SMB,Current,60,159406.27
+2024-06-30,Prairies,Enterprise,Current,15,1058596.87
+2024-06-30,Prairies,Mid-Market,1-30,4,50875.39
+2024-06-30,Prairies,Mid-Market,31-60,1,7111.33
+2024-06-30,Prairies,Mid-Market,61-90,1,6044.05
+2024-06-30,Prairies,Mid-Market,91-120,1,19501.41
+2024-06-30,Prairies,Mid-Market,Current,13,222518.65
+2024-06-30,Prairies,SMB,1-30,4,13001.26
+2024-06-30,Prairies,SMB,120+,1,2549.7
+2024-06-30,Prairies,SMB,31-60,4,9462.32
+2024-06-30,Prairies,SMB,91-120,1,5895.35
+2024-06-30,Prairies,SMB,Current,19,52491.71
+2024-06-30,Quebec,Enterprise,1-30,6,291381.6
+2024-06-30,Quebec,Enterprise,120+,1,29640.03
+2024-06-30,Quebec,Enterprise,31-60,3,192662.95
+2024-06-30,Quebec,Enterprise,Current,43,2594432.59
+2024-06-30,Quebec,Mid-Market,1-30,3,19835.78
+2024-06-30,Quebec,Mid-Market,31-60,2,30916.37
+2024-06-30,Quebec,Mid-Market,61-90,1,12125.55
+2024-06-30,Quebec,Mid-Market,91-120,1,7360.79
+2024-06-30,Quebec,Mid-Market,Current,33,514206.59
+2024-06-30,Quebec,SMB,1-30,8,25251.38
+2024-06-30,Quebec,SMB,120+,4,7587.3
+2024-06-30,Quebec,SMB,31-60,1,2536.27
+2024-06-30,Quebec,SMB,61-90,3,10582.56
+2024-06-30,Quebec,SMB,91-120,2,6211.45
+2024-06-30,Quebec,SMB,Current,27,94663.43
+2024-07-31,Alberta,Enterprise,1-30,1,23283.94
+2024-07-31,Alberta,Enterprise,31-60,1,24225.26
+2024-07-31,Alberta,Enterprise,Current,35,1892195.68
+2024-07-31,Alberta,Mid-Market,1-30,2,27642.21
+2024-07-31,Alberta,Mid-Market,31-60,1,19450.43
+2024-07-31,Alberta,Mid-Market,91-120,1,9183.8
+2024-07-31,Alberta,Mid-Market,Current,26,363303.17
+2024-07-31,Alberta,SMB,1-30,7,19085.38
+2024-07-31,Alberta,SMB,120+,2,3402.16
+2024-07-31,Alberta,SMB,31-60,1,2269.71
+2024-07-31,Alberta,SMB,61-90,4,21635.04
+2024-07-31,Alberta,SMB,91-120,2,3902.98
+2024-07-31,Alberta,SMB,Current,17,43689.26
+2024-07-31,Atlantic,Enterprise,Current,6,318451.89
+2024-07-31,Atlantic,Mid-Market,91-120,1,20449.29
+2024-07-31,Atlantic,Mid-Market,Current,4,50429.95
+2024-07-31,Atlantic,SMB,1-30,4,8956.6
+2024-07-31,Atlantic,SMB,120+,1,4198.0
+2024-07-31,Atlantic,SMB,31-60,1,1119.12
+2024-07-31,Atlantic,SMB,Current,15,34241.7
+2024-07-31,British Columbia,Enterprise,Current,11,461248.48
+2024-07-31,British Columbia,Mid-Market,1-30,6,113528.94
+2024-07-31,British Columbia,Mid-Market,31-60,1,6990.9
+2024-07-31,British Columbia,Mid-Market,Current,30,382253.17
+2024-07-31,British Columbia,SMB,1-30,5,25726.66
+2024-07-31,British Columbia,SMB,120+,2,6845.61
+2024-07-31,British Columbia,SMB,31-60,2,5459.38
+2024-07-31,British Columbia,SMB,91-120,1,4014.55
+2024-07-31,British Columbia,SMB,Current,23,73761.51
+2024-07-31,Ontario,Enterprise,1-30,3,431041.75
+2024-07-31,Ontario,Enterprise,120+,1,60852.73
+2024-07-31,Ontario,Enterprise,31-60,1,40058.56
+2024-07-31,Ontario,Enterprise,91-120,1,74231.15
+2024-07-31,Ontario,Enterprise,Current,42,2766987.17
+2024-07-31,Ontario,Mid-Market,1-30,10,140505.63
+2024-07-31,Ontario,Mid-Market,120+,3,55601.32
+2024-07-31,Ontario,Mid-Market,31-60,2,14605.79
+2024-07-31,Ontario,Mid-Market,61-90,1,9530.62
+2024-07-31,Ontario,Mid-Market,91-120,3,54300.97
+2024-07-31,Ontario,Mid-Market,Current,60,882302.12
+2024-07-31,Ontario,SMB,1-30,15,40665.1
+2024-07-31,Ontario,SMB,120+,8,27960.74
+2024-07-31,Ontario,SMB,31-60,7,17208.82
+2024-07-31,Ontario,SMB,61-90,4,8958.26
+2024-07-31,Ontario,SMB,91-120,5,13037.77
+2024-07-31,Ontario,SMB,Current,75,186115.88
+2024-07-31,Prairies,Enterprise,Current,10,498405.73
+2024-07-31,Prairies,Mid-Market,1-30,1,4372.96
+2024-07-31,Prairies,Mid-Market,120+,1,19501.41
+2024-07-31,Prairies,Mid-Market,61-90,1,7111.33
+2024-07-31,Prairies,Mid-Market,91-120,1,6044.05
+2024-07-31,Prairies,Mid-Market,Current,19,321690.55
+2024-07-31,Prairies,SMB,1-30,2,5538.56
+2024-07-31,Prairies,SMB,120+,1,2549.7
+2024-07-31,Prairies,SMB,31-60,1,2742.62
+2024-07-31,Prairies,SMB,61-90,3,3667.53
+2024-07-31,Prairies,SMB,Current,18,57747.25
+2024-07-31,Quebec,Enterprise,1-30,1,41518.83
+2024-07-31,Quebec,Enterprise,61-90,3,155206.49
+2024-07-31,Quebec,Enterprise,Current,38,2201356.81
+2024-07-31,Quebec,Mid-Market,1-30,7,87694.96
+2024-07-31,Quebec,Mid-Market,120+,1,7360.79
+2024-07-31,Quebec,Mid-Market,61-90,1,7277.25
+2024-07-31,Quebec,Mid-Market,91-120,1,12125.55
+2024-07-31,Quebec,Mid-Market,Current,26,324540.49
+2024-07-31,Quebec,SMB,1-30,10,38070.74
+2024-07-31,Quebec,SMB,120+,4,10877.36
+2024-07-31,Quebec,SMB,31-60,4,14301.98
+2024-07-31,Quebec,SMB,61-90,1,2536.27
+2024-07-31,Quebec,SMB,91-120,2,7511.31
+2024-07-31,Quebec,SMB,Current,31,77777.7
+2024-08-31,Alberta,Enterprise,31-60,1,23283.94
+2024-08-31,Alberta,Enterprise,61-90,1,24225.26
+2024-08-31,Alberta,Enterprise,Current,37,1796042.97
+2024-08-31,Alberta,Mid-Market,1-30,5,68969.04
+2024-08-31,Alberta,Mid-Market,120+,1,9183.8
+2024-08-31,Alberta,Mid-Market,61-90,1,19450.43
+2024-08-31,Alberta,Mid-Market,Current,24,339253.11
+2024-08-31,Alberta,SMB,1-30,4,8012.0
+2024-08-31,Alberta,SMB,120+,4,7305.14
+2024-08-31,Alberta,SMB,31-60,3,9225.42
+2024-08-31,Alberta,SMB,61-90,1,2269.71
+2024-08-31,Alberta,SMB,91-120,2,6048.78
+2024-08-31,Alberta,SMB,Current,15,46930.05
+2024-08-31,Atlantic,Enterprise,Current,6,213365.13
+2024-08-31,Atlantic,Mid-Market,1-30,1,10187.48
+2024-08-31,Atlantic,Mid-Market,120+,1,20449.29
+2024-08-31,Atlantic,Mid-Market,Current,7,131385.29
+2024-08-31,Atlantic,SMB,1-30,2,3319.21
+2024-08-31,Atlantic,SMB,31-60,2,3328.71
+2024-08-31,Atlantic,SMB,61-90,1,1119.12
+2024-08-31,Atlantic,SMB,Current,16,39223.21
+2024-08-31,British Columbia,Enterprise,1-30,1,41566.61
+2024-08-31,British Columbia,Enterprise,Current,9,390366.63
+2024-08-31,British Columbia,Mid-Market,1-30,3,50883.35
+2024-08-31,British Columbia,Mid-Market,31-60,2,43790.56
+2024-08-31,British Columbia,Mid-Market,61-90,1,6990.9
+2024-08-31,British Columbia,Mid-Market,Current,22,248593.36
+2024-08-31,British Columbia,SMB,1-30,6,24996.48
+2024-08-31,British Columbia,SMB,120+,3,10860.16
+2024-08-31,British Columbia,SMB,31-60,1,2714.51
+2024-08-31,British Columbia,SMB,61-90,2,5459.38
+2024-08-31,British Columbia,SMB,Current,17,43825.17
+2024-08-31,Ontario,Enterprise,1-30,3,366790.57
+2024-08-31,Ontario,Enterprise,120+,2,135083.88
+2024-08-31,Ontario,Enterprise,31-60,1,31551.05
+2024-08-31,Ontario,Enterprise,61-90,1,40058.56
+2024-08-31,Ontario,Enterprise,Current,33,1884805.08
+2024-08-31,Ontario,Mid-Market,1-30,6,65551.28
+2024-08-31,Ontario,Mid-Market,120+,4,90543.16
+2024-08-31,Ontario,Mid-Market,31-60,5,60342.1
+2024-08-31,Ontario,Mid-Market,61-90,1,3478.67
+2024-08-31,Ontario,Mid-Market,91-120,1,9530.62
+2024-08-31,Ontario,Mid-Market,Current,53,668884.07
+2024-08-31,Ontario,SMB,1-30,28,69534.81
+2024-08-31,Ontario,SMB,120+,8,25406.39
+2024-08-31,Ontario,SMB,31-60,6,16721.88
+2024-08-31,Ontario,SMB,61-90,3,10044.02
+2024-08-31,Ontario,SMB,91-120,2,6815.02
+2024-08-31,Ontario,SMB,Current,64,195144.28
+2024-08-31,Prairies,Enterprise,Current,5,265210.23
+2024-08-31,Prairies,Mid-Market,1-30,1,12146.33
+2024-08-31,Prairies,Mid-Market,120+,2,18110.29
+2024-08-31,Prairies,Mid-Market,31-60,1,4372.96
+2024-08-31,Prairies,Mid-Market,Current,20,244137.8
+2024-08-31,Prairies,SMB,1-30,6,19869.17
+2024-08-31,Prairies,SMB,31-60,1,3022.45
+2024-08-31,Prairies,SMB,61-90,1,2742.62
+2024-08-31,Prairies,SMB,91-120,2,2298.46
+2024-08-31,Prairies,SMB,Current,13,40755.86
+2024-08-31,Quebec,Enterprise,91-120,2,76543.27
+2024-08-31,Quebec,Enterprise,Current,45,2758651.24
+2024-08-31,Quebec,Mid-Market,1-30,3,28217.42
+2024-08-31,Quebec,Mid-Market,120+,2,19486.34
+2024-08-31,Quebec,Mid-Market,31-60,6,82373.81
+2024-08-31,Quebec,Mid-Market,91-120,1,7277.25
+2024-08-31,Quebec,Mid-Market,Current,28,418504.03
+2024-08-31,Quebec,SMB,1-30,7,20865.73
+2024-08-31,Quebec,SMB,120+,3,9739.91
+2024-08-31,Quebec,SMB,31-60,4,11203.0
+2024-08-31,Quebec,SMB,61-90,3,8000.99
+2024-08-31,Quebec,SMB,91-120,1,2536.27
+2024-08-31,Quebec,SMB,Current,37,122822.04
+2024-09-30,Alberta,Enterprise,1-30,2,69707.32
+2024-09-30,Alberta,Enterprise,61-90,1,23283.94
+2024-09-30,Alberta,Enterprise,91-120,1,24225.26
+2024-09-30,Alberta,Enterprise,Current,35,1655873.94
+2024-09-30,Alberta,Mid-Market,1-30,6,65823.1
+2024-09-30,Alberta,Mid-Market,120+,1,9183.8
+2024-09-30,Alberta,Mid-Market,31-60,1,7690.25
+2024-09-30,Alberta,Mid-Market,91-120,1,19450.43
+2024-09-30,Alberta,Mid-Market,Current,16,292238.34
+2024-09-30,Alberta,SMB,1-30,3,11403.86
+2024-09-30,Alberta,SMB,120+,4,9951.76
+2024-09-30,Alberta,SMB,31-60,3,5621.65
+2024-09-30,Alberta,SMB,61-90,2,7096.52
+2024-09-30,Alberta,SMB,91-120,1,2269.71
+2024-09-30,Alberta,SMB,Current,19,47813.05
+2024-09-30,Atlantic,Enterprise,Current,3,174890.65
+2024-09-30,Atlantic,Mid-Market,120+,1,20449.29
+2024-09-30,Atlantic,Mid-Market,31-60,1,10187.48
+2024-09-30,Atlantic,Mid-Market,Current,12,218200.72
+2024-09-30,Atlantic,SMB,1-30,3,10192.15
+2024-09-30,Atlantic,SMB,31-60,1,1039.63
+2024-09-30,Atlantic,SMB,61-90,1,2388.06
+2024-09-30,Atlantic,SMB,Current,11,23661.85
+2024-09-30,British Columbia,Enterprise,1-30,1,62922.79
+2024-09-30,British Columbia,Enterprise,Current,12,682701.77
+2024-09-30,British Columbia,Mid-Market,1-30,2,31932.82
+2024-09-30,British Columbia,Mid-Market,31-60,1,18677.03
+2024-09-30,British Columbia,Mid-Market,61-90,2,43790.56
+2024-09-30,British Columbia,Mid-Market,91-120,1,6990.9
+2024-09-30,British Columbia,Mid-Market,Current,27,387732.6
+2024-09-30,British Columbia,SMB,1-30,2,2934.6
+2024-09-30,British Columbia,SMB,31-60,5,23247.42
+2024-09-30,British Columbia,SMB,61-90,1,2714.51
+2024-09-30,British Columbia,SMB,91-120,2,5459.38
+2024-09-30,British Columbia,SMB,Current,20,53345.2
+2024-09-30,Ontario,Enterprise,1-30,2,237906.2
+2024-09-30,Ontario,Enterprise,120+,2,135083.88
+2024-09-30,Ontario,Enterprise,31-60,2,77680.87
+2024-09-30,Ontario,Enterprise,61-90,1,31551.05
+2024-09-30,Ontario,Enterprise,91-120,1,40058.56
+2024-09-30,Ontario,Enterprise,Current,35,1436285.53
+2024-09-30,Ontario,Mid-Market,1-30,11,155634.9
+2024-09-30,Ontario,Mid-Market,120+,4,63055.18
+2024-09-30,Ontario,Mid-Market,31-60,1,5623.37
+2024-09-30,Ontario,Mid-Market,61-90,4,48602.27
+2024-09-30,Ontario,Mid-Market,91-120,1,3478.67
+2024-09-30,Ontario,Mid-Market,Current,55,733025.42
+2024-09-30,Ontario,SMB,1-30,18,55578.85
+2024-09-30,Ontario,SMB,120+,5,10430.2
+2024-09-30,Ontario,SMB,31-60,13,31877.03
+2024-09-30,Ontario,SMB,61-90,4,10167.35
+2024-09-30,Ontario,SMB,91-120,2,3698.85
+2024-09-30,Ontario,SMB,Current,49,146808.29
+2024-09-30,Prairies,Enterprise,Current,6,275742.75
+2024-09-30,Prairies,Mid-Market,1-30,2,22218.6
+2024-09-30,Prairies,Mid-Market,120+,1,6044.05
+2024-09-30,Prairies,Mid-Market,Current,10,123676.2
+2024-09-30,Prairies,SMB,1-30,4,15734.37
+2024-09-30,Prairies,SMB,120+,1,1048.43
+2024-09-30,Prairies,SMB,31-60,3,12973.42
+2024-09-30,Prairies,SMB,61-90,1,3022.45
+2024-09-30,Prairies,SMB,91-120,1,2742.62
+2024-09-30,Prairies,SMB,Current,12,28433.87
+2024-09-30,Quebec,Enterprise,1-30,3,199287.21
+2024-09-30,Quebec,Enterprise,120+,2,76543.27
+2024-09-30,Quebec,Enterprise,Current,43,2156890.46
+2024-09-30,Quebec,Mid-Market,1-30,4,104165.56
+2024-09-30,Quebec,Mid-Market,120+,2,19402.8
+2024-09-30,Quebec,Mid-Market,31-60,1,14433.37
+2024-09-30,Quebec,Mid-Market,61-90,4,59072.0
+2024-09-30,Quebec,Mid-Market,Current,34,454457.11
+2024-09-30,Quebec,SMB,1-30,9,34306.99
+2024-09-30,Quebec,SMB,120+,3,10047.58
+2024-09-30,Quebec,SMB,31-60,4,7448.92
+2024-09-30,Quebec,SMB,61-90,2,4784.28
+2024-09-30,Quebec,SMB,91-120,3,8000.99
+2024-09-30,Quebec,SMB,Current,35,86950.41
+2024-10-31,Alberta,Enterprise,120+,1,24225.26
+2024-10-31,Alberta,Enterprise,91-120,1,23283.94
+2024-10-31,Alberta,Enterprise,Current,31,1518905.09
+2024-10-31,Alberta,Mid-Market,1-30,2,31705.34
+2024-10-31,Alberta,Mid-Market,120+,2,28634.23
+2024-10-31,Alberta,Mid-Market,31-60,3,35376.1
+2024-10-31,Alberta,Mid-Market,61-90,1,7690.25
+2024-10-31,Alberta,Mid-Market,Current,22,317480.2
+2024-10-31,Alberta,SMB,1-30,4,10313.04
+2024-10-31,Alberta,SMB,120+,4,10529.23
+2024-10-31,Alberta,SMB,61-90,1,1684.26
+2024-10-31,Alberta,SMB,91-120,2,7096.52
+2024-10-31,Alberta,SMB,Current,20,61827.88
+2024-10-31,Atlantic,Enterprise,Current,8,505215.15
+2024-10-31,Atlantic,Mid-Market,1-30,1,28941.65
+2024-10-31,Atlantic,Mid-Market,Current,2,21591.29
+2024-10-31,Atlantic,SMB,1-30,2,5707.67
+2024-10-31,Atlantic,SMB,31-60,1,4832.61
+2024-10-31,Atlantic,SMB,61-90,1,1039.63
+2024-10-31,Atlantic,SMB,91-120,1,2388.06
+2024-10-31,Atlantic,SMB,Current,13,42075.51
+2024-10-31,British Columbia,Enterprise,Current,15,787483.96
+2024-10-31,British Columbia,Mid-Market,1-30,7,107007.55
+2024-10-31,British Columbia,Mid-Market,120+,1,6990.9
+2024-10-31,British Columbia,Mid-Market,31-60,1,11981.71
+2024-10-31,British Columbia,Mid-Market,61-90,1,18677.03
+2024-10-31,British Columbia,Mid-Market,91-120,1,27405.33
+2024-10-31,British Columbia,Mid-Market,Current,27,348892.28
+2024-10-31,British Columbia,SMB,1-30,5,10222.55
+2024-10-31,British Columbia,SMB,120+,1,2071.27
+2024-10-31,British Columbia,SMB,31-60,1,670.09
+2024-10-31,British Columbia,SMB,61-90,1,5410.03
+2024-10-31,British Columbia,SMB,91-120,1,2714.51
+2024-10-31,British Columbia,SMB,Current,24,84383.92
+2024-10-31,Ontario,Enterprise,1-30,2,66336.54
+2024-10-31,Ontario,Enterprise,91-120,1,31551.05
+2024-10-31,Ontario,Enterprise,Current,36,1709773.63
+2024-10-31,Ontario,Mid-Market,1-30,8,134457.87
+2024-10-31,Ontario,Mid-Market,120+,1,3478.67
+2024-10-31,Ontario,Mid-Market,31-60,2,35515.69
+2024-10-31,Ontario,Mid-Market,61-90,1,5623.37
+2024-10-31,Ontario,Mid-Market,91-120,4,48602.27
+2024-10-31,Ontario,Mid-Market,Current,77,1051797.43
+2024-10-31,Ontario,SMB,1-30,13,34835.49
+2024-10-31,Ontario,SMB,120+,4,10513.87
+2024-10-31,Ontario,SMB,31-60,7,21065.89
+2024-10-31,Ontario,SMB,61-90,10,27442.2
+2024-10-31,Ontario,SMB,91-120,5,11145.93
+2024-10-31,Ontario,SMB,Current,65,176830.67
+2024-10-31,Prairies,Enterprise,Current,10,559094.57
+2024-10-31,Prairies,Mid-Market,1-30,1,16362.69
+2024-10-31,Prairies,Mid-Market,Current,12,139085.85
+2024-10-31,Prairies,SMB,1-30,8,19082.92
+2024-10-31,Prairies,SMB,120+,2,3791.05
+2024-10-31,Prairies,SMB,31-60,1,3045.8
+2024-10-31,Prairies,SMB,61-90,3,12973.42
+2024-10-31,Prairies,SMB,91-120,1,3022.45
+2024-10-31,Prairies,SMB,Current,8,44001.79
+2024-10-31,Quebec,Enterprise,120+,1,37623.03
+2024-10-31,Quebec,Enterprise,31-60,2,135575.94
+2024-10-31,Quebec,Enterprise,Current,43,2356646.65
+2024-10-31,Quebec,Mid-Market,1-30,2,21140.49
+2024-10-31,Quebec,Mid-Market,120+,1,7277.25
+2024-10-31,Quebec,Mid-Market,31-60,1,60723.36
+2024-10-31,Quebec,Mid-Market,61-90,1,14433.37
+2024-10-31,Quebec,Mid-Market,91-120,4,48987.48
+2024-10-31,Quebec,Mid-Market,Current,24,351833.78
+2024-10-31,Quebec,SMB,1-30,6,19351.34
+2024-10-31,Quebec,SMB,120+,4,10537.26
+2024-10-31,Quebec,SMB,31-60,4,11069.37
+2024-10-31,Quebec,SMB,61-90,3,5169.83
+2024-10-31,Quebec,SMB,91-120,2,4784.28
+2024-10-31,Quebec,SMB,Current,19,67739.78
+2024-11-30,Alberta,Enterprise,1-30,1,71389.31
+2024-11-30,Alberta,Enterprise,120+,2,47509.2
+2024-11-30,Alberta,Enterprise,Current,30,1418559.07
+2024-11-30,Alberta,Mid-Market,1-30,1,15329.31
+2024-11-30,Alberta,Mid-Market,120+,1,19450.43
+2024-11-30,Alberta,Mid-Market,31-60,1,9693.27
+2024-11-30,Alberta,Mid-Market,61-90,2,25955.33
+2024-11-30,Alberta,Mid-Market,91-120,1,6885.51
+2024-11-30,Alberta,Mid-Market,Current,23,338617.07
+2024-11-30,Alberta,SMB,1-30,8,22524.73
+2024-11-30,Alberta,SMB,120+,2,7732.97
+2024-11-30,Alberta,SMB,31-60,2,4487.29
+2024-11-30,Alberta,SMB,91-120,1,1684.26
+2024-11-30,Alberta,SMB,Current,24,78924.61
+2024-11-30,Atlantic,Enterprise,Current,10,488547.72
+2024-11-30,Atlantic,Mid-Market,Current,8,84538.33
+2024-11-30,Atlantic,SMB,1-30,1,2030.51
+2024-11-30,Atlantic,SMB,31-60,2,5707.67
+2024-11-30,Atlantic,SMB,91-120,1,1039.63
+2024-11-30,Atlantic,SMB,Current,17,38477.87
+2024-11-30,British Columbia,Enterprise,1-30,1,53692.57
+2024-11-30,British Columbia,Enterprise,Current,5,281826.66
+2024-11-30,British Columbia,Mid-Market,1-30,5,41111.43
+2024-11-30,British Columbia,Mid-Market,120+,2,34396.23
+2024-11-30,British Columbia,Mid-Market,31-60,2,44315.38
+2024-11-30,British Columbia,Mid-Market,61-90,1,11981.71
+2024-11-30,British Columbia,Mid-Market,91-120,1,18677.03
+2024-11-30,British Columbia,Mid-Market,Current,17,249412.24
+2024-11-30,British Columbia,SMB,1-30,7,24345.95
+2024-11-30,British Columbia,SMB,120+,2,4785.78
+2024-11-30,British Columbia,SMB,31-60,1,1366.04
+2024-11-30,British Columbia,SMB,61-90,1,670.09
+2024-11-30,British Columbia,SMB,91-120,1,5410.03
+2024-11-30,British Columbia,SMB,Current,22,60171.08
+2024-11-30,Ontario,Enterprise,1-30,1,43030.23
+2024-11-30,Ontario,Enterprise,31-60,1,33269.83
+2024-11-30,Ontario,Enterprise,Current,36,1837434.45
+2024-11-30,Ontario,Mid-Market,1-30,10,124218.1
+2024-11-30,Ontario,Mid-Market,120+,4,42414.93
+2024-11-30,Ontario,Mid-Market,31-60,2,29895.82
+2024-11-30,Ontario,Mid-Market,61-90,1,21910.41
+2024-11-30,Ontario,Mid-Market,91-120,1,5623.37
+2024-11-30,Ontario,Mid-Market,Current,67,1073482.47
+2024-11-30,Ontario,SMB,1-30,19,44381.41
+2024-11-30,Ontario,SMB,120+,4,10372.19
+2024-11-30,Ontario,SMB,31-60,6,19583.98
+2024-11-30,Ontario,SMB,61-90,4,16534.18
+2024-11-30,Ontario,SMB,91-120,6,14247.67
+2024-11-30,Ontario,SMB,Current,53,147409.39
+2024-11-30,Prairies,Enterprise,Current,12,685394.22
+2024-11-30,Prairies,Mid-Market,1-30,1,15272.77
+2024-11-30,Prairies,Mid-Market,31-60,1,16362.69
+2024-11-30,Prairies,Mid-Market,Current,12,152405.48
+2024-11-30,Prairies,SMB,1-30,3,11717.12
+2024-11-30,Prairies,SMB,120+,2,5765.07
+2024-11-30,Prairies,SMB,31-60,2,5059.13
+2024-11-30,Prairies,SMB,61-90,1,3045.8
+2024-11-30,Prairies,SMB,91-120,3,12973.42
+2024-11-30,Prairies,SMB,Current,20,58639.7
+2024-11-30,Quebec,Enterprise,1-30,3,154202.39
+2024-11-30,Quebec,Enterprise,61-90,2,135575.94
+2024-11-30,Quebec,Enterprise,Current,41,2043328.13
+2024-11-30,Quebec,Mid-Market,1-30,2,31603.98
+2024-11-30,Quebec,Mid-Market,120+,3,43328.47
+2024-11-30,Quebec,Mid-Market,31-60,1,5962.69
+2024-11-30,Quebec,Mid-Market,61-90,1,60723.36
+2024-11-30,Quebec,Mid-Market,91-120,1,14433.37
+2024-11-30,Quebec,Mid-Market,Current,35,457510.7
+2024-11-30,Quebec,SMB,1-30,6,24660.76
+2024-11-30,Quebec,SMB,120+,3,8837.26
+2024-11-30,Quebec,SMB,31-60,3,15723.29
+2024-11-30,Quebec,SMB,61-90,2,5503.82
+2024-11-30,Quebec,SMB,91-120,3,5169.83
+2024-11-30,Quebec,SMB,Current,37,111743.14
+2024-12-31,Alberta,Enterprise,1-30,2,131989.69
+2024-12-31,Alberta,Enterprise,120+,2,47509.2
+2024-12-31,Alberta,Enterprise,31-60,1,71389.31
+2024-12-31,Alberta,Enterprise,Current,36,1793746.85
+2024-12-31,Alberta,Mid-Market,1-30,2,33146.6
+2024-12-31,Alberta,Mid-Market,120+,2,23761.65
+2024-12-31,Alberta,Mid-Market,31-60,1,9388.31
+2024-12-31,Alberta,Mid-Market,61-90,1,9693.27
+2024-12-31,Alberta,Mid-Market,91-120,1,9079.19
+2024-12-31,Alberta,Mid-Market,Current,17,191557.48
+2024-12-31,Alberta,SMB,1-30,7,26941.84
+2024-12-31,Alberta,SMB,120+,2,7147.52
+2024-12-31,Alberta,SMB,31-60,5,13265.28
+2024-12-31,Alberta,SMB,61-90,1,1183.6
+2024-12-31,Alberta,SMB,Current,21,54668.56
+2024-12-31,Atlantic,Enterprise,Current,7,344537.0
+2024-12-31,Atlantic,Mid-Market,1-30,2,23705.79
+2024-12-31,Atlantic,Mid-Market,Current,3,16160.56
+2024-12-31,Atlantic,SMB,1-30,6,9000.38
+2024-12-31,Atlantic,SMB,31-60,1,2030.51
+2024-12-31,Atlantic,SMB,61-90,2,5707.67
+2024-12-31,Atlantic,SMB,Current,16,36737.1
+2024-12-31,British Columbia,Enterprise,Current,8,415124.48
+2024-12-31,British Columbia,Mid-Market,1-30,1,3628.48
+2024-12-31,British Columbia,Mid-Market,120+,1,18677.03
+2024-12-31,British Columbia,Mid-Market,31-60,2,9592.98
+2024-12-31,British Columbia,Mid-Market,61-90,2,44315.38
+2024-12-31,British Columbia,Mid-Market,91-120,1,11981.71
+2024-12-31,British Columbia,Mid-Market,Current,27,364816.71
+2024-12-31,British Columbia,SMB,1-30,6,17249.26
+2024-12-31,British Columbia,SMB,120+,3,10195.81
+2024-12-31,British Columbia,SMB,31-60,3,6001.0
+2024-12-31,British Columbia,SMB,91-120,1,670.09
+2024-12-31,British Columbia,SMB,Current,20,64170.39
+2024-12-31,Ontario,Enterprise,1-30,1,78498.19
+2024-12-31,Ontario,Enterprise,61-90,1,33269.83
+2024-12-31,Ontario,Enterprise,Current,33,2008600.88
+2024-12-31,Ontario,Mid-Market,1-30,10,146929.74
+2024-12-31,Ontario,Mid-Market,120+,4,56875.71
+2024-12-31,Ontario,Mid-Market,31-60,3,37977.92
+2024-12-31,Ontario,Mid-Market,61-90,2,29895.82
+2024-12-31,Ontario,Mid-Market,Current,62,864722.02
+2024-12-31,Ontario,SMB,1-30,13,27140.23
+2024-12-31,Ontario,SMB,120+,8,19655.64
+2024-12-31,Ontario,SMB,31-60,9,15936.28
+2024-12-31,Ontario,SMB,61-90,4,11860.41
+2024-12-31,Ontario,SMB,91-120,2,7581.68
+2024-12-31,Ontario,SMB,Current,51,145517.5
+2024-12-31,Prairies,Enterprise,Current,16,760721.34
+2024-12-31,Prairies,Mid-Market,1-30,3,50552.35
+2024-12-31,Prairies,Mid-Market,61-90,1,16362.69
+2024-12-31,Prairies,Mid-Market,Current,17,193363.29
+2024-12-31,Prairies,SMB,1-30,8,26112.26
+2024-12-31,Prairies,SMB,120+,4,12122.76
+2024-12-31,Prairies,SMB,91-120,1,3045.8
+2024-12-31,Prairies,SMB,Current,18,52588.65
+2024-12-31,Quebec,Enterprise,1-30,1,77841.62
+2024-12-31,Quebec,Enterprise,91-120,2,135575.94
+2024-12-31,Quebec,Enterprise,Current,39,1858449.66
+2024-12-31,Quebec,Mid-Market,1-30,5,29959.73
+2024-12-31,Quebec,Mid-Market,120+,2,25006.76
+2024-12-31,Quebec,Mid-Market,61-90,1,5962.69
+2024-12-31,Quebec,Mid-Market,91-120,1,60723.36
+2024-12-31,Quebec,Mid-Market,Current,36,521097.57
+2024-12-31,Quebec,SMB,1-30,13,32088.56
+2024-12-31,Quebec,SMB,120+,5,9954.11
+2024-12-31,Quebec,SMB,31-60,2,7725.67
+2024-12-31,Quebec,SMB,61-90,2,11015.76
+2024-12-31,Quebec,SMB,91-120,1,1143.72
+2024-12-31,Quebec,SMB,Current,23,72102.53
+2025-01-31,Alberta,Enterprise,1-30,2,112943.85
+2025-01-31,Alberta,Enterprise,31-60,1,108469.45
+2025-01-31,Alberta,Enterprise,Current,29,1685653.38
+2025-01-31,Alberta,Mid-Market,120+,3,32840.84
+2025-01-31,Alberta,Mid-Market,61-90,1,9388.31
+2025-01-31,Alberta,Mid-Market,91-120,1,9693.27
+2025-01-31,Alberta,Mid-Market,Current,23,214059.54
+2025-01-31,Alberta,SMB,1-30,7,18488.66
+2025-01-31,Alberta,SMB,120+,1,1684.26
+2025-01-31,Alberta,SMB,31-60,2,6608.58
+2025-01-31,Alberta,SMB,61-90,2,4704.63
+2025-01-31,Alberta,SMB,91-120,1,2996.08
+2025-01-31,Alberta,SMB,Current,24,73525.65
+2025-01-31,Atlantic,Enterprise,Current,10,502843.83
+2025-01-31,Atlantic,Mid-Market,Current,3,54111.98
+2025-01-31,Atlantic,SMB,1-30,5,11533.43
+2025-01-31,Atlantic,SMB,31-60,2,2739.31
+2025-01-31,Atlantic,SMB,91-120,2,5707.67
+2025-01-31,Atlantic,SMB,Current,10,20270.96
+2025-01-31,British Columbia,Enterprise,1-30,1,65675.14
+2025-01-31,British Columbia,Enterprise,Current,10,480214.36
+2025-01-31,British Columbia,Mid-Market,1-30,4,61971.19
+2025-01-31,British Columbia,Mid-Market,120+,2,30658.74
+2025-01-31,British Columbia,Mid-Market,61-90,1,2457.31
+2025-01-31,British Columbia,Mid-Market,91-120,1,8181.74
+2025-01-31,British Columbia,Mid-Market,Current,25,336163.48
+2025-01-31,British Columbia,SMB,1-30,9,29556.63
+2025-01-31,British Columbia,SMB,120+,1,5410.03
+2025-01-31,British Columbia,SMB,31-60,1,1337.21
+2025-01-31,British Columbia,SMB,61-90,1,2909.85
+2025-01-31,British Columbia,SMB,Current,21,61182.32
+2025-01-31,Ontario,Enterprise,1-30,3,99215.99
+2025-01-31,Ontario,Enterprise,31-60,1,78498.19
+2025-01-31,Ontario,Enterprise,91-120,1,33269.83
+2025-01-31,Ontario,Enterprise,Current,30,1929011.54
+2025-01-31,Ontario,Mid-Market,1-30,7,98933.69
+2025-01-31,Ontario,Mid-Market,120+,1,5623.37
+2025-01-31,Ontario,Mid-Market,61-90,4,47219.2
+2025-01-31,Ontario,Mid-Market,91-120,2,29895.82
+2025-01-31,Ontario,Mid-Market,Current,51,715449.32
+2025-01-31,Ontario,SMB,1-30,13,39032.65
+2025-01-31,Ontario,SMB,120+,7,17903.26
+2025-01-31,Ontario,SMB,31-60,6,11293.18
+2025-01-31,Ontario,SMB,61-90,3,5280.34
+2025-01-31,Ontario,SMB,91-120,3,5709.48
+2025-01-31,Ontario,SMB,Current,63,173733.55
+2025-01-31,Prairies,Enterprise,1-30,1,80069.49
+2025-01-31,Prairies,Enterprise,Current,10,426059.94
+2025-01-31,Prairies,Mid-Market,1-30,3,18774.58
+2025-01-31,Prairies,Mid-Market,Current,18,356590.54
+2025-01-31,Prairies,SMB,1-30,6,9635.26
+2025-01-31,Prairies,SMB,120+,3,9403.49
+2025-01-31,Prairies,SMB,31-60,3,10354.2
+2025-01-31,Prairies,SMB,Current,14,39975.42
+2025-01-31,Quebec,Enterprise,1-30,5,153384.86
+2025-01-31,Quebec,Enterprise,120+,1,32178.87
+2025-01-31,Quebec,Enterprise,31-60,1,77841.62
+2025-01-31,Quebec,Enterprise,Current,38,1979816.53
+2025-01-31,Quebec,Mid-Market,1-30,6,75499.31
+2025-01-31,Quebec,Mid-Market,120+,2,71296.75
+2025-01-31,Quebec,Mid-Market,31-60,1,6388.01
+2025-01-31,Quebec,Mid-Market,91-120,1,5962.69
+2025-01-31,Quebec,Mid-Market,Current,15,195799.74
+2025-01-31,Quebec,SMB,1-30,9,33938.23
+2025-01-31,Quebec,SMB,120+,4,6937.73
+2025-01-31,Quebec,SMB,31-60,4,14963.09
+2025-01-31,Quebec,SMB,61-90,2,2839.17
+2025-01-31,Quebec,SMB,91-120,1,3465.75
+2025-01-31,Quebec,SMB,Current,22,58851.63
+2025-02-28,Alberta,Enterprise,1-30,1,24330.5
+2025-02-28,Alberta,Enterprise,61-90,1,108469.45
+2025-02-28,Alberta,Enterprise,Current,32,1996869.65
+2025-02-28,Alberta,Mid-Market,1-30,5,51060.39
+2025-02-28,Alberta,Mid-Market,120+,2,18772.46
+2025-02-28,Alberta,Mid-Market,61-90,1,9388.31
+2025-02-28,Alberta,Mid-Market,Current,18,209826.56
+2025-02-28,Alberta,SMB,1-30,4,9835.99
+2025-02-28,Alberta,SMB,31-60,4,10108.76
+2025-02-28,Alberta,SMB,61-90,1,1248.88
+2025-02-28,Alberta,SMB,91-120,1,3087.19
+2025-02-28,Alberta,SMB,Current,18,42715.7
+2025-02-28,Atlantic,Enterprise,1-30,1,72237.69
+2025-02-28,Atlantic,Enterprise,Current,10,514789.65
+2025-02-28,Atlantic,Mid-Market,1-30,2,30088.34
+2025-02-28,Atlantic,Mid-Market,Current,5,67753.48
+2025-02-28,Atlantic,SMB,1-30,2,3978.41
+2025-02-28,Atlantic,SMB,120+,1,3026.21
+2025-02-28,Atlantic,SMB,31-60,2,5978.64
+2025-02-28,Atlantic,SMB,61-90,2,2739.31
+2025-02-28,Atlantic,SMB,Current,16,38576.93
+2025-02-28,British Columbia,Enterprise,Current,11,594798.06
+2025-02-28,British Columbia,Mid-Market,1-30,4,43342.95
+2025-02-28,British Columbia,Mid-Market,120+,2,20163.45
+2025-02-28,British Columbia,Mid-Market,31-60,1,11915.36
+2025-02-28,British Columbia,Mid-Market,91-120,1,2457.31
+2025-02-28,British Columbia,Mid-Market,Current,30,419421.22
+2025-02-28,British Columbia,SMB,1-30,5,16034.44
+2025-02-28,British Columbia,SMB,120+,1,5410.03
+2025-02-28,British Columbia,SMB,31-60,1,1878.38
+2025-02-28,British Columbia,SMB,61-90,1,1337.21
+2025-02-28,British Columbia,SMB,91-120,1,2909.85
+2025-02-28,British Columbia,SMB,Current,22,67782.02
+2025-02-28,Ontario,Enterprise,1-30,1,603541.58
+2025-02-28,Ontario,Enterprise,31-60,1,27997.47
+2025-02-28,Ontario,Enterprise,61-90,1,78498.19
+2025-02-28,Ontario,Enterprise,Current,21,1069603.0
+2025-02-28,Ontario,Mid-Market,1-30,6,103404.01
+2025-02-28,Ontario,Mid-Market,120+,2,29895.82
+2025-02-28,Ontario,Mid-Market,31-60,2,39070.14
+2025-02-28,Ontario,Mid-Market,61-90,1,12145.91
+2025-02-28,Ontario,Mid-Market,91-120,3,35073.29
+2025-02-28,Ontario,Mid-Market,Current,66,818056.25
+2025-02-28,Ontario,SMB,1-30,11,36001.69
+2025-02-28,Ontario,SMB,120+,6,18122.45
+2025-02-28,Ontario,SMB,31-60,2,7644.78
+2025-02-28,Ontario,SMB,61-90,5,10385.71
+2025-02-28,Ontario,SMB,91-120,4,6368.62
+2025-02-28,Ontario,SMB,Current,54,151282.85
+2025-02-28,Prairies,Enterprise,Current,7,438334.04
+2025-02-28,Prairies,Mid-Market,1-30,2,17612.11
+2025-02-28,Prairies,Mid-Market,31-60,1,2820.64
+2025-02-28,Prairies,Mid-Market,Current,21,295315.57
+2025-02-28,Prairies,SMB,1-30,5,9751.64
+2025-02-28,Prairies,SMB,120+,1,3045.8
+2025-02-28,Prairies,SMB,31-60,2,3692.22
+2025-02-28,Prairies,SMB,61-90,3,10354.2
+2025-02-28,Prairies,SMB,Current,16,48984.44
+2025-02-28,Quebec,Enterprise,1-30,1,18301.52
+2025-02-28,Quebec,Enterprise,31-60,1,18802.17
+2025-02-28,Quebec,Enterprise,61-90,1,77841.62
+2025-02-28,Quebec,Enterprise,Current,30,1811419.91
+2025-02-28,Quebec,Mid-Market,1-30,2,11203.4
+2025-02-28,Quebec,Mid-Market,120+,2,66686.05
+2025-02-28,Quebec,Mid-Market,31-60,2,24896.6
+2025-02-28,Quebec,Mid-Market,Current,23,410004.79
+2025-02-28,Quebec,SMB,1-30,6,14490.42
+2025-02-28,Quebec,SMB,120+,3,5264.13
+2025-02-28,Quebec,SMB,31-60,2,4002.57
+2025-02-28,Quebec,SMB,61-90,4,14419.85
+2025-02-28,Quebec,SMB,91-120,1,3465.75
+2025-02-28,Quebec,SMB,Current,31,87106.37
+2025-03-31,Alberta,Enterprise,91-120,1,108469.45
+2025-03-31,Alberta,Enterprise,Current,37,1950016.22
+2025-03-31,Alberta,Mid-Market,1-30,6,48998.63
+2025-03-31,Alberta,Mid-Market,120+,2,19081.58
+2025-03-31,Alberta,Mid-Market,31-60,3,29567.14
+2025-03-31,Alberta,Mid-Market,Current,20,217247.78
+2025-03-31,Alberta,SMB,1-30,4,9606.52
+2025-03-31,Alberta,SMB,120+,1,3087.19
+2025-03-31,Alberta,SMB,61-90,2,5012.39
+2025-03-31,Alberta,SMB,91-120,1,1248.88
+2025-03-31,Alberta,SMB,Current,21,63826.24
+2025-03-31,Atlantic,Enterprise,1-30,1,21186.58
+2025-03-31,Atlantic,Enterprise,Current,4,374678.14
+2025-03-31,Atlantic,Mid-Market,Current,3,24232.21
+2025-03-31,Atlantic,SMB,31-60,1,925.16
+2025-03-31,Atlantic,SMB,61-90,1,1735.44
+2025-03-31,Atlantic,SMB,91-120,1,1227.85
+2025-03-31,Atlantic,SMB,Current,14,44568.45
+2025-03-31,British Columbia,Enterprise,Current,11,507297.65
+2025-03-31,British Columbia,Mid-Market,1-30,2,24421.8
+2025-03-31,British Columbia,Mid-Market,120+,1,2457.31
+2025-03-31,British Columbia,Mid-Market,61-90,1,11915.36
+2025-03-31,British Columbia,Mid-Market,Current,24,272792.18
+2025-03-31,British Columbia,SMB,1-30,7,20081.61
+2025-03-31,British Columbia,SMB,120+,1,2909.85
+2025-03-31,British Columbia,SMB,31-60,2,6212.49
+2025-03-31,British Columbia,SMB,61-90,1,1878.38
+2025-03-31,British Columbia,SMB,91-120,1,1337.21
+2025-03-31,British Columbia,SMB,Current,30,85192.98
+2025-03-31,Ontario,Enterprise,61-90,1,27997.47
+2025-03-31,Ontario,Enterprise,91-120,1,78498.19
+2025-03-31,Ontario,Enterprise,Current,32,1587271.7
+2025-03-31,Ontario,Mid-Market,1-30,8,100520.07
+2025-03-31,Ontario,Mid-Market,120+,4,46973.73
+2025-03-31,Ontario,Mid-Market,31-60,1,11169.18
+2025-03-31,Ontario,Mid-Market,61-90,2,39070.14
+2025-03-31,Ontario,Mid-Market,Current,61,777886.17
+2025-03-31,Ontario,SMB,1-30,18,49576.27
+2025-03-31,Ontario,SMB,120+,5,7996.94
+2025-03-31,Ontario,SMB,31-60,3,6544.48
+2025-03-31,Ontario,SMB,61-90,2,7644.78
+2025-03-31,Ontario,SMB,91-120,4,9389.71
+2025-03-31,Ontario,SMB,Current,70,207624.63
+2025-03-31,Prairies,Enterprise,Current,11,806698.09
+2025-03-31,Prairies,Mid-Market,1-30,5,84287.77
+2025-03-31,Prairies,Mid-Market,31-60,1,9511.83
+2025-03-31,Prairies,Mid-Market,61-90,2,10920.92
+2025-03-31,Prairies,Mid-Market,Current,19,218220.09
+2025-03-31,Prairies,SMB,1-30,2,5412.04
+2025-03-31,Prairies,SMB,31-60,2,1293.34
+2025-03-31,Prairies,SMB,61-90,1,2166.53
+2025-03-31,Prairies,SMB,91-120,1,1553.6
+2025-03-31,Prairies,SMB,Current,15,37835.84
+2025-03-31,Quebec,Enterprise,61-90,1,18802.17
+2025-03-31,Quebec,Enterprise,91-120,1,77841.62
+2025-03-31,Quebec,Enterprise,Current,29,1879216.66
+2025-03-31,Quebec,Mid-Market,1-30,2,39478.77
+2025-03-31,Quebec,Mid-Market,120+,2,66686.05
+2025-03-31,Quebec,Mid-Market,Current,25,315190.82
+2025-03-31,Quebec,SMB,1-30,7,22413.96
+2025-03-31,Quebec,SMB,31-60,3,6493.72
+2025-03-31,Quebec,SMB,61-90,2,4002.57
+2025-03-31,Quebec,SMB,91-120,3,12253.53
+2025-03-31,Quebec,SMB,Current,29,74715.58
+2025-04-30,Alberta,Enterprise,1-30,2,97803.22
+2025-04-30,Alberta,Enterprise,Current,30,1384319.91
+2025-04-30,Alberta,Mid-Market,1-30,6,75104.95
+2025-04-30,Alberta,Mid-Market,31-60,1,8322.69
+2025-04-30,Alberta,Mid-Market,61-90,2,26014.16
+2025-04-30,Alberta,Mid-Market,Current,20,345537.23
+2025-04-30,Alberta,SMB,1-30,8,18843.04
+2025-04-30,Alberta,SMB,120+,2,4336.07
+2025-04-30,Alberta,SMB,31-60,1,2429.43
+2025-04-30,Alberta,SMB,91-120,2,5012.39
+2025-04-30,Alberta,SMB,Current,17,49292.12
+2025-04-30,Atlantic,Enterprise,Current,6,486527.0
+2025-04-30,Atlantic,Mid-Market,Current,10,119480.97
+2025-04-30,Atlantic,SMB,1-30,2,10777.51
+2025-04-30,Atlantic,SMB,120+,1,1227.85
+2025-04-30,Atlantic,SMB,61-90,1,925.16
+2025-04-30,Atlantic,SMB,Current,17,45318.63
+2025-04-30,British Columbia,Enterprise,Current,11,510670.71
+2025-04-30,British Columbia,Mid-Market,1-30,3,26748.17
+2025-04-30,British Columbia,Mid-Market,91-120,1,11915.36
+2025-04-30,British Columbia,Mid-Market,Current,23,354806.83
+2025-04-30,British Columbia,SMB,1-30,9,26047.75
+2025-04-30,British Columbia,SMB,120+,2,4247.06
+2025-04-30,British Columbia,SMB,31-60,2,2887.5
+2025-04-30,British Columbia,SMB,61-90,2,6212.49
+2025-04-30,British Columbia,SMB,Current,18,41017.44
+2025-04-30,Ontario,Enterprise,1-30,1,78525.25
+2025-04-30,Ontario,Enterprise,120+,1,78498.19
+2025-04-30,Ontario,Enterprise,91-120,1,27997.47
+2025-04-30,Ontario,Enterprise,Current,35,1693391.69
+2025-04-30,Ontario,Mid-Market,1-30,8,106484.13
+2025-04-30,Ontario,Mid-Market,120+,1,4788.47
+2025-04-30,Ontario,Mid-Market,31-60,2,31309.39
+2025-04-30,Ontario,Mid-Market,61-90,1,11169.18
+2025-04-30,Ontario,Mid-Market,91-120,2,39070.14
+2025-04-30,Ontario,Mid-Market,Current,70,1067228.4
+2025-04-30,Ontario,SMB,1-30,9,43825.23
+2025-04-30,Ontario,SMB,120+,6,11513.31
+2025-04-30,Ontario,SMB,31-60,10,21230.76
+2025-04-30,Ontario,SMB,61-90,3,6280.04
+2025-04-30,Ontario,SMB,91-120,2,7644.78
+2025-04-30,Ontario,SMB,Current,60,174249.53
+2025-04-30,Prairies,Enterprise,1-30,1,58140.46
+2025-04-30,Prairies,Enterprise,Current,9,558772.7
+2025-04-30,Prairies,Mid-Market,1-30,3,26269.74
+2025-04-30,Prairies,Mid-Market,31-60,2,24836.4
+2025-04-30,Prairies,Mid-Market,91-120,2,10920.92
+2025-04-30,Prairies,Mid-Market,Current,18,246741.41
+2025-04-30,Prairies,SMB,1-30,5,9122.36
+2025-04-30,Prairies,SMB,120+,1,1553.6
+2025-04-30,Prairies,SMB,61-90,2,1293.34
+2025-04-30,Prairies,SMB,91-120,1,2166.53
+2025-04-30,Prairies,SMB,Current,9,27137.9
+2025-04-30,Quebec,Enterprise,120+,1,77841.62
+2025-04-30,Quebec,Enterprise,91-120,1,18802.17
+2025-04-30,Quebec,Enterprise,Current,44,2447759.23
+2025-04-30,Quebec,Mid-Market,1-30,2,25181.42
+2025-04-30,Quebec,Mid-Market,120+,1,5962.69
+2025-04-30,Quebec,Mid-Market,31-60,1,13416.06
+2025-04-30,Quebec,Mid-Market,Current,24,354112.47
+2025-04-30,Quebec,SMB,1-30,7,14459.13
+2025-04-30,Quebec,SMB,120+,3,12253.53
+2025-04-30,Quebec,SMB,31-60,3,10376.24
+2025-04-30,Quebec,SMB,91-120,1,2938.99
+2025-04-30,Quebec,SMB,Current,31,66603.38
+2025-05-31,Alberta,Enterprise,1-30,1,25768.73
+2025-05-31,Alberta,Enterprise,Current,28,1398174.36
+2025-05-31,Alberta,Mid-Market,1-30,6,96962.3
+2025-05-31,Alberta,Mid-Market,31-60,1,8960.23
+2025-05-31,Alberta,Mid-Market,61-90,1,8322.69
+2025-05-31,Alberta,Mid-Market,91-120,1,11615.17
+2025-05-31,Alberta,Mid-Market,Current,19,191882.44
+2025-05-31,Alberta,SMB,1-30,3,11986.54
+2025-05-31,Alberta,SMB,120+,4,9348.46
+2025-05-31,Alberta,SMB,31-60,4,10971.67
+2025-05-31,Alberta,SMB,61-90,1,2429.43
+2025-05-31,Alberta,SMB,Current,12,31167.51
+2025-05-31,Atlantic,Enterprise,Current,7,270659.62
+2025-05-31,Atlantic,Mid-Market,1-30,2,19632.14
+2025-05-31,Atlantic,Mid-Market,Current,5,82501.08
+2025-05-31,Atlantic,SMB,1-30,5,9083.31
+2025-05-31,Atlantic,SMB,31-60,1,5818.82
+2025-05-31,Atlantic,SMB,91-120,1,925.16
+2025-05-31,Atlantic,SMB,Current,8,16929.64
+2025-05-31,British Columbia,Enterprise,Current,9,506605.83
+2025-05-31,British Columbia,Mid-Market,1-30,4,42856.22
+2025-05-31,British Columbia,Mid-Market,120+,1,11915.36
+2025-05-31,British Columbia,Mid-Market,Current,22,231121.21
+2025-05-31,British Columbia,SMB,1-30,4,7887.46
+2025-05-31,British Columbia,SMB,120+,1,1337.21
+2025-05-31,British Columbia,SMB,31-60,3,7537.77
+2025-05-31,British Columbia,SMB,61-90,2,2887.5
+2025-05-31,British Columbia,SMB,91-120,1,2019.7
+2025-05-31,British Columbia,SMB,Current,26,84341.78
+2025-05-31,Ontario,Enterprise,1-30,1,13265.26
+2025-05-31,Ontario,Enterprise,120+,2,106495.66
+2025-05-31,Ontario,Enterprise,Current,37,1971180.59
+2025-05-31,Ontario,Mid-Market,1-30,8,126487.39
+2025-05-31,Ontario,Mid-Market,120+,3,43858.61
+2025-05-31,Ontario,Mid-Market,31-60,2,36650.7
+2025-05-31,Ontario,Mid-Market,61-90,1,16228.41
+2025-05-31,Ontario,Mid-Market,Current,61,944888.98
+2025-05-31,Ontario,SMB,1-30,14,34672.64
+2025-05-31,Ontario,SMB,120+,5,13508.74
+2025-05-31,Ontario,SMB,31-60,8,42266.0
+2025-05-31,Ontario,SMB,61-90,7,14451.17
+2025-05-31,Ontario,SMB,91-120,3,7490.88
+2025-05-31,Ontario,SMB,Current,57,168051.4
+2025-05-31,Prairies,Enterprise,Current,10,418879.96
+2025-05-31,Prairies,Mid-Market,1-30,2,17034.35
+2025-05-31,Prairies,Mid-Market,120+,1,8100.28
+2025-05-31,Prairies,Mid-Market,31-60,3,25731.36
+2025-05-31,Prairies,Mid-Market,Current,17,253197.44
+2025-05-31,Prairies,SMB,1-30,2,9115.59
+2025-05-31,Prairies,SMB,120+,2,3720.13
+2025-05-31,Prairies,SMB,31-60,1,2590.27
+2025-05-31,Prairies,SMB,91-120,2,1293.34
+2025-05-31,Prairies,SMB,Current,15,46882.67
+2025-05-31,Quebec,Enterprise,120+,1,18802.17
+2025-05-31,Quebec,Enterprise,Current,45,2010371.55
+2025-05-31,Quebec,Mid-Market,1-30,2,43267.49
+2025-05-31,Quebec,Mid-Market,Current,31,461853.69
+2025-05-31,Quebec,SMB,1-30,8,13476.94
+2025-05-31,Quebec,SMB,120+,2,8371.03
+2025-05-31,Quebec,SMB,31-60,5,8046.25
+2025-05-31,Quebec,SMB,61-90,3,10376.24
+2025-05-31,Quebec,SMB,Current,31,91668.7
+2025-06-30,Alberta,Enterprise,1-30,1,26408.71
+2025-06-30,Alberta,Enterprise,31-60,1,25768.73
+2025-06-30,Alberta,Enterprise,Current,28,1606818.12
+2025-06-30,Alberta,Mid-Market,1-30,3,41227.3
+2025-06-30,Alberta,Mid-Market,120+,1,11615.17
+2025-06-30,Alberta,Mid-Market,31-60,5,83349.44
+2025-06-30,Alberta,Mid-Market,61-90,1,8960.23
+2025-06-30,Alberta,Mid-Market,91-120,1,8322.69
+2025-06-30,Alberta,Mid-Market,Current,25,284853.94
+2025-06-30,Alberta,SMB,1-30,4,13320.78
+2025-06-30,Alberta,SMB,120+,1,1715.44
+2025-06-30,Alberta,SMB,31-60,1,6248.0
+2025-06-30,Alberta,SMB,61-90,3,5714.04
+2025-06-30,Alberta,SMB,Current,23,66714.03
+2025-06-30,Atlantic,Enterprise,Current,3,79071.11
+2025-06-30,Atlantic,Mid-Market,Current,7,89792.66
+2025-06-30,Atlantic,SMB,1-30,4,9513.67
+2025-06-30,Atlantic,SMB,120+,1,925.16
+2025-06-30,Atlantic,SMB,31-60,1,3174.72
+2025-06-30,Atlantic,SMB,61-90,1,4761.17
+2025-06-30,Atlantic,SMB,Current,21,56699.7
+2025-06-30,British Columbia,Enterprise,1-30,1,77769.51
+2025-06-30,British Columbia,Enterprise,Current,8,521830.19
+2025-06-30,British Columbia,Mid-Market,1-30,4,27294.38
+2025-06-30,British Columbia,Mid-Market,120+,1,11915.36
+2025-06-30,British Columbia,Mid-Market,31-60,2,26080.87
+2025-06-30,British Columbia,Mid-Market,Current,25,323142.1
+2025-06-30,British Columbia,SMB,1-30,5,12259.67
+2025-06-30,British Columbia,SMB,31-60,2,5125.57
+2025-06-30,British Columbia,SMB,61-90,2,6617.18
+2025-06-30,British Columbia,SMB,91-120,2,2389.29
+2025-06-30,British Columbia,SMB,Current,25,68746.77
+2025-06-30,Ontario,Enterprise,1-30,5,283676.32
+2025-06-30,Ontario,Enterprise,120+,1,27997.47
+2025-06-30,Ontario,Enterprise,Current,38,1985045.15
+2025-06-30,Ontario,Mid-Market,1-30,3,48392.06
+2025-06-30,Ontario,Mid-Market,120+,2,39070.14
+2025-06-30,Ontario,Mid-Market,31-60,2,35884.5
+2025-06-30,Ontario,Mid-Market,61-90,1,15614.89
+2025-06-30,Ontario,Mid-Market,Current,53,677406.97
+2025-06-30,Ontario,SMB,1-30,16,50697.92
+2025-06-30,Ontario,SMB,120+,5,15135.66
+2025-06-30,Ontario,SMB,31-60,5,17042.39
+2025-06-30,Ontario,SMB,61-90,4,14369.41
+2025-06-30,Ontario,SMB,91-120,6,11311.38
+2025-06-30,Ontario,SMB,Current,61,179290.35
+2025-06-30,Prairies,Enterprise,Current,10,384132.95
+2025-06-30,Prairies,Mid-Market,1-30,1,5815.03
+2025-06-30,Prairies,Mid-Market,120+,1,8100.28
+2025-06-30,Prairies,Mid-Market,31-60,1,10078.17
+2025-06-30,Prairies,Mid-Market,61-90,2,15345.39
+2025-06-30,Prairies,Mid-Market,Current,16,264971.73
+2025-06-30,Prairies,SMB,1-30,3,9602.75
+2025-06-30,Prairies,SMB,120+,1,2166.53
+2025-06-30,Prairies,SMB,31-60,1,5082.16
+2025-06-30,Prairies,SMB,61-90,1,2590.27
+2025-06-30,Prairies,SMB,Current,10,38002.33
+2025-06-30,Quebec,Enterprise,1-30,6,317680.97
+2025-06-30,Quebec,Enterprise,Current,31,1483718.72
+2025-06-30,Quebec,Mid-Market,1-30,5,73008.16
+2025-06-30,Quebec,Mid-Market,Current,27,436739.19
+2025-06-30,Quebec,SMB,1-30,6,15270.53
+2025-06-30,Quebec,SMB,31-60,4,8151.65
+2025-06-30,Quebec,SMB,61-90,4,6181.84
+2025-06-30,Quebec,SMB,91-120,3,10044.14
+2025-06-30,Quebec,SMB,Current,24,85892.01
+2025-07-31,Alberta,Enterprise,61-90,1,25768.73
+2025-07-31,Alberta,Enterprise,Current,38,1932577.71
+2025-07-31,Alberta,Mid-Market,1-30,4,37795.36
+2025-07-31,Alberta,Mid-Market,120+,2,20575.4
+2025-07-31,Alberta,Mid-Market,31-60,1,8268.44
+2025-07-31,Alberta,Mid-Market,61-90,3,50035.58
+2025-07-31,Alberta,Mid-Market,Current,18,245925.09
+2025-07-31,Alberta,SMB,1-30,9,24715.71
+2025-07-31,Alberta,SMB,120+,1,1715.44
+2025-07-31,Alberta,SMB,31-60,1,3244.04
+2025-07-31,Alberta,SMB,61-90,1,4372.36
+2025-07-31,Alberta,SMB,91-120,1,2089.41
+2025-07-31,Alberta,SMB,Current,22,59884.41
+2025-07-31,Atlantic,Enterprise,Current,8,391622.67
+2025-07-31,Atlantic,Mid-Market,1-30,1,10598.13
+2025-07-31,Atlantic,Mid-Market,Current,8,88911.13
+2025-07-31,Atlantic,SMB,1-30,6,15996.16
+2025-07-31,Atlantic,SMB,120+,1,925.16
+2025-07-31,Atlantic,SMB,31-60,2,5124.19
+2025-07-31,Atlantic,SMB,91-120,1,4761.17
+2025-07-31,Atlantic,SMB,Current,18,71860.02
+2025-07-31,British Columbia,Enterprise,1-30,1,94434.98
+2025-07-31,British Columbia,Enterprise,Current,7,347524.91
+2025-07-31,British Columbia,Mid-Market,1-30,3,58598.31
+2025-07-31,British Columbia,Mid-Market,31-60,2,16487.75
+2025-07-31,British Columbia,Mid-Market,91-120,1,21320.76
+2025-07-31,British Columbia,Mid-Market,Current,27,307760.08
+2025-07-31,British Columbia,SMB,1-30,8,25789.9
+2025-07-31,British Columbia,SMB,120+,2,2389.29
+2025-07-31,British Columbia,SMB,31-60,3,9118.38
+2025-07-31,British Columbia,SMB,61-90,1,3682.82
+2025-07-31,British Columbia,SMB,91-120,2,5860.54
+2025-07-31,British Columbia,SMB,Current,17,47887.25
+2025-07-31,Ontario,Enterprise,1-30,3,193205.24
+2025-07-31,Ontario,Enterprise,31-60,2,199107.53
+2025-07-31,Ontario,Enterprise,Current,31,1605111.0
+2025-07-31,Ontario,Mid-Market,1-30,7,57772.56
+2025-07-31,Ontario,Mid-Market,120+,1,33734.69
+2025-07-31,Ontario,Mid-Market,61-90,2,35884.5
+2025-07-31,Ontario,Mid-Market,91-120,1,15614.89
+2025-07-31,Ontario,Mid-Market,Current,52,773799.22
+2025-07-31,Ontario,SMB,1-30,16,44739.46
+2025-07-31,Ontario,SMB,120+,7,13185.46
+2025-07-31,Ontario,SMB,31-60,4,16619.31
+2025-07-31,Ontario,SMB,61-90,4,15209.67
+2025-07-31,Ontario,SMB,91-120,3,9816.62
+2025-07-31,Ontario,SMB,Current,47,135928.29
+2025-07-31,Prairies,Enterprise,Current,7,230749.08
+2025-07-31,Prairies,Mid-Market,1-30,2,25980.98
+2025-07-31,Prairies,Mid-Market,120+,1,8100.28
+2025-07-31,Prairies,Mid-Market,91-120,2,15345.39
+2025-07-31,Prairies,Mid-Market,Current,15,322697.76
+2025-07-31,Prairies,SMB,1-30,5,14478.38
+2025-07-31,Prairies,SMB,31-60,1,2871.41
+2025-07-31,Prairies,SMB,91-120,1,2590.27
+2025-07-31,Prairies,SMB,Current,16,36237.48
+2025-07-31,Quebec,Enterprise,1-30,2,144810.84
+2025-07-31,Quebec,Enterprise,31-60,1,72545.52
+2025-07-31,Quebec,Enterprise,Current,33,1978103.2
+2025-07-31,Quebec,Mid-Market,1-30,3,75586.25
+2025-07-31,Quebec,Mid-Market,31-60,3,44520.41
+2025-07-31,Quebec,Mid-Market,Current,25,332952.09
+2025-07-31,Quebec,SMB,1-30,8,24666.66
+2025-07-31,Quebec,SMB,120+,3,10044.14
+2025-07-31,Quebec,SMB,31-60,5,11674.27
+2025-07-31,Quebec,SMB,61-90,3,5044.06
+2025-07-31,Quebec,SMB,91-120,3,4101.78
+2025-07-31,Quebec,SMB,Current,28,90331.49
+2025-08-31,Alberta,Enterprise,1-30,3,169076.14
+2025-08-31,Alberta,Enterprise,Current,28,1073398.31
+2025-08-31,Alberta,Mid-Market,1-30,1,10949.23
+2025-08-31,Alberta,Mid-Market,120+,1,8960.23
+2025-08-31,Alberta,Mid-Market,31-60,1,11800.21
+2025-08-31,Alberta,Mid-Market,61-90,1,8268.44
+2025-08-31,Alberta,Mid-Market,91-120,3,50035.58
+2025-08-31,Alberta,Mid-Market,Current,18,283822.94
+2025-08-31,Alberta,SMB,1-30,5,13022.06
+2025-08-31,Alberta,SMB,120+,1,2089.41
+2025-08-31,Alberta,SMB,31-60,4,8909.58
+2025-08-31,Alberta,SMB,91-120,1,4372.36
+2025-08-31,Alberta,SMB,Current,21,52458.75
+2025-08-31,Atlantic,Enterprise,Current,9,341175.68
+2025-08-31,Atlantic,Mid-Market,1-30,2,12317.7
+2025-08-31,Atlantic,Mid-Market,31-60,1,10598.13
+2025-08-31,Atlantic,Mid-Market,Current,6,59774.76
+2025-08-31,Atlantic,SMB,1-30,2,6617.54
+2025-08-31,Atlantic,SMB,120+,1,4761.17
+2025-08-31,Atlantic,SMB,31-60,4,8338.19
+2025-08-31,Atlantic,SMB,61-90,1,2560.16
+2025-08-31,Atlantic,SMB,Current,20,55070.2
+2025-08-31,British Columbia,Enterprise,Current,8,294730.84
+2025-08-31,British Columbia,Mid-Market,1-30,5,71184.96
+2025-08-31,British Columbia,Mid-Market,120+,1,21320.76
+2025-08-31,British Columbia,Mid-Market,31-60,3,58598.31
+2025-08-31,British Columbia,Mid-Market,61-90,2,16487.75
+2025-08-31,British Columbia,Mid-Market,Current,21,246873.29
+2025-08-31,British Columbia,SMB,1-30,3,7639.81
+2025-08-31,British Columbia,SMB,120+,3,3832.04
+2025-08-31,British Columbia,SMB,31-60,4,15944.3
+2025-08-31,British Columbia,SMB,61-90,2,3323.95
+2025-08-31,British Columbia,SMB,Current,21,58350.71
+2025-08-31,Ontario,Enterprise,1-30,2,171838.07
+2025-08-31,Ontario,Enterprise,61-90,1,64883.19
+2025-08-31,Ontario,Enterprise,Current,36,2220538.82
+2025-08-31,Ontario,Mid-Market,1-30,9,117559.48
+2025-08-31,Ontario,Mid-Market,120+,1,15614.89
+2025-08-31,Ontario,Mid-Market,91-120,2,31490.98
+2025-08-31,Ontario,Mid-Market,Current,58,728154.84
+2025-08-31,Ontario,SMB,1-30,19,63108.65
+2025-08-31,Ontario,SMB,120+,6,16702.5
+2025-08-31,Ontario,SMB,31-60,8,19354.29
+2025-08-31,Ontario,SMB,61-90,3,12226.09
+2025-08-31,Ontario,SMB,91-120,3,13581.63
+2025-08-31,Ontario,SMB,Current,56,154026.77
+2025-08-31,Prairies,Enterprise,Current,4,194809.84
+2025-08-31,Prairies,Mid-Market,1-30,3,91309.83
+2025-08-31,Prairies,Mid-Market,120+,2,15345.39
+2025-08-31,Prairies,Mid-Market,Current,11,173957.05
+2025-08-31,Prairies,SMB,1-30,8,26881.05
+2025-08-31,Prairies,SMB,120+,1,2590.27
+2025-08-31,Prairies,SMB,61-90,1,2871.41
+2025-08-31,Prairies,SMB,Current,14,35074.49
+2025-08-31,Quebec,Enterprise,1-30,3,160365.23
+2025-08-31,Quebec,Enterprise,31-60,1,64187.55
+2025-08-31,Quebec,Enterprise,61-90,1,72545.52
+2025-08-31,Quebec,Enterprise,Current,34,1670337.78
+2025-08-31,Quebec,Mid-Market,1-30,5,58995.02
+2025-08-31,Quebec,Mid-Market,31-60,2,52279.28
+2025-08-31,Quebec,Mid-Market,61-90,2,36978.61
+2025-08-31,Quebec,Mid-Market,Current,19,275499.04
+2025-08-31,Quebec,SMB,1-30,8,24038.83
+2025-08-31,Quebec,SMB,120+,4,5792.6
+2025-08-31,Quebec,SMB,31-60,4,15050.55
+2025-08-31,Quebec,SMB,61-90,4,9664.11
+2025-08-31,Quebec,SMB,91-120,2,3912.71
+2025-08-31,Quebec,SMB,Current,29,62737.23
+2025-09-30,Alberta,Enterprise,1-30,2,71111.24
+2025-09-30,Alberta,Enterprise,Current,23,1185194.83
+2025-09-30,Alberta,Mid-Market,1-30,7,108276.17
+2025-09-30,Alberta,Mid-Market,120+,3,50035.58
+2025-09-30,Alberta,Mid-Market,31-60,1,10949.23
+2025-09-30,Alberta,Mid-Market,91-120,1,8268.44
+2025-09-30,Alberta,Mid-Market,Current,19,230104.95
+2025-09-30,Alberta,SMB,1-30,6,10310.85
+2025-09-30,Alberta,SMB,120+,2,6461.77
+2025-09-30,Alberta,SMB,31-60,2,3156.46
+2025-09-30,Alberta,SMB,61-90,3,6378.24
+2025-09-30,Alberta,SMB,Current,31,82756.79
+2025-09-30,Atlantic,Enterprise,Current,5,212879.25
+2025-09-30,Atlantic,Mid-Market,1-30,4,39872.3
+2025-09-30,Atlantic,Mid-Market,31-60,1,6111.56
+2025-09-30,Atlantic,Mid-Market,61-90,1,10598.13
+2025-09-30,Atlantic,Mid-Market,Current,4,36155.46
+2025-09-30,Atlantic,SMB,1-30,3,8299.18
+2025-09-30,Atlantic,SMB,120+,1,4761.17
+2025-09-30,Atlantic,SMB,61-90,4,8338.19
+2025-09-30,Atlantic,SMB,91-120,1,2560.16
+2025-09-30,Atlantic,SMB,Current,15,47491.73
+2025-09-30,British Columbia,Enterprise,Current,7,338078.46
+2025-09-30,British Columbia,Mid-Market,120+,1,21320.76
+2025-09-30,British Columbia,Mid-Market,31-60,2,25446.13
+2025-09-30,British Columbia,Mid-Market,61-90,3,58598.31
+2025-09-30,British Columbia,Mid-Market,91-120,1,7774.03
+2025-09-30,British Columbia,Mid-Market,Current,32,402340.01
+2025-09-30,British Columbia,SMB,1-30,7,15872.81
+2025-09-30,British Columbia,SMB,120+,3,3832.04
+2025-09-30,British Columbia,SMB,31-60,2,5099.54
+2025-09-30,British Columbia,SMB,61-90,3,11912.44
+2025-09-30,British Columbia,SMB,91-120,1,2335.84
+2025-09-30,British Columbia,SMB,Current,20,50302.53
+2025-09-30,Ontario,Enterprise,1-30,1,52363.32
+2025-09-30,Ontario,Enterprise,Current,41,2016719.81
+2025-09-30,Ontario,Mid-Market,1-30,7,69690.14
+2025-09-30,Ontario,Mid-Market,120+,3,47105.87
+2025-09-30,Ontario,Mid-Market,31-60,4,62973.54
+2025-09-30,Ontario,Mid-Market,Current,57,828950.26
+2025-09-30,Ontario,SMB,1-30,16,59162.2
+2025-09-30,Ontario,SMB,120+,5,22120.29
+2025-09-30,Ontario,SMB,31-60,8,31562.88
+2025-09-30,Ontario,SMB,61-90,7,17775.13
+2025-09-30,Ontario,SMB,91-120,1,1558.86
+2025-09-30,Ontario,SMB,Current,57,152942.06
+2025-09-30,Prairies,Enterprise,Current,4,230129.79
+2025-09-30,Prairies,Mid-Market,1-30,4,63666.97
+2025-09-30,Prairies,Mid-Market,120+,1,9759.85
+2025-09-30,Prairies,Mid-Market,31-60,2,69483.08
+2025-09-30,Prairies,Mid-Market,Current,11,154341.66
+2025-09-30,Prairies,SMB,1-30,4,10031.16
+2025-09-30,Prairies,SMB,120+,1,2590.27
+2025-09-30,Prairies,SMB,31-60,4,14676.28
+2025-09-30,Prairies,SMB,91-120,1,2871.41
+2025-09-30,Prairies,SMB,Current,23,56569.51
+2025-09-30,Quebec,Enterprise,1-30,3,204049.73
+2025-09-30,Quebec,Enterprise,31-60,3,160365.23
+2025-09-30,Quebec,Enterprise,61-90,1,64187.55
+2025-09-30,Quebec,Enterprise,Current,40,1653470.07
+2025-09-30,Quebec,Mid-Market,1-30,4,60181.16
+2025-09-30,Quebec,Mid-Market,31-60,2,20943.87
+2025-09-30,Quebec,Mid-Market,61-90,2,52279.28
+2025-09-30,Quebec,Mid-Market,91-120,2,36978.61
+2025-09-30,Quebec,Mid-Market,Current,23,338734.2
+2025-09-30,Quebec,SMB,1-30,15,30750.41
+2025-09-30,Quebec,SMB,120+,3,5422.23
+2025-09-30,Quebec,SMB,31-60,4,12928.15
+2025-09-30,Quebec,SMB,61-90,2,3420.91
+2025-09-30,Quebec,SMB,91-120,4,9664.11
+2025-09-30,Quebec,SMB,Current,29,81115.6
+2025-10-31,Alberta,Enterprise,1-30,1,9931.2
+2025-10-31,Alberta,Enterprise,31-60,1,50966.55
+2025-10-31,Alberta,Enterprise,Current,33,1730428.75
+2025-10-31,Alberta,Mid-Market,1-30,7,90881.57
+2025-10-31,Alberta,Mid-Market,120+,2,22192.75
+2025-10-31,Alberta,Mid-Market,31-60,3,60241.11
+2025-10-31,Alberta,Mid-Market,Current,17,195759.24
+2025-10-31,Alberta,SMB,1-30,14,39384.81
+2025-10-31,Alberta,SMB,120+,1,4372.36
+2025-10-31,Alberta,SMB,31-60,5,6878.12
+2025-10-31,Alberta,SMB,61-90,2,3156.46
+2025-10-31,Alberta,SMB,91-120,2,3557.82
+2025-10-31,Alberta,SMB,Current,25,64321.57
+2025-10-31,Atlantic,Enterprise,Current,7,290958.12
+2025-10-31,Atlantic,Mid-Market,1-30,1,12644.58
+2025-10-31,Atlantic,Mid-Market,61-90,1,6111.56
+2025-10-31,Atlantic,Mid-Market,91-120,1,10598.13
+2025-10-31,Atlantic,Mid-Market,Current,2,30658.82
+2025-10-31,Atlantic,SMB,1-30,5,13098.31
+2025-10-31,Atlantic,SMB,120+,1,2560.16
+2025-10-31,Atlantic,SMB,31-60,2,5330.88
+2025-10-31,Atlantic,SMB,91-120,3,5453.24
+2025-10-31,Atlantic,SMB,Current,8,17794.4
+2025-10-31,British Columbia,Enterprise,1-30,1,109873.17
+2025-10-31,British Columbia,Enterprise,Current,13,473010.59
+2025-10-31,British Columbia,Mid-Market,1-30,5,92604.12
+2025-10-31,British Columbia,Mid-Market,120+,2,29094.79
+2025-10-31,British Columbia,Mid-Market,61-90,1,15043.68
+2025-10-31,British Columbia,Mid-Market,91-120,3,58598.31
+2025-10-31,British Columbia,Mid-Market,Current,23,288098.2
+2025-10-31,British Columbia,SMB,1-30,3,5983.12
+2025-10-31,British Columbia,SMB,31-60,3,8214.33
+2025-10-31,British Columbia,SMB,91-120,3,11912.44
+2025-10-31,British Columbia,SMB,Current,22,52752.79
+2025-10-31,Ontario,Enterprise,1-30,4,223134.34
+2025-10-31,Ontario,Enterprise,31-60,1,52363.32
+2025-10-31,Ontario,Enterprise,Current,41,2078020.39
+2025-10-31,Ontario,Mid-Market,1-30,12,192178.61
+2025-10-31,Ontario,Mid-Market,120+,1,15392.05
+2025-10-31,Ontario,Mid-Market,31-60,4,46383.26
+2025-10-31,Ontario,Mid-Market,61-90,4,59430.45
+2025-10-31,Ontario,Mid-Market,Current,55,802854.26
+2025-10-31,Ontario,SMB,1-30,16,41034.52
+2025-10-31,Ontario,SMB,120+,4,19796.75
+2025-10-31,Ontario,SMB,31-60,10,37882.61
+2025-10-31,Ontario,SMB,61-90,6,26537.33
+2025-10-31,Ontario,SMB,91-120,3,6722.92
+2025-10-31,Ontario,SMB,Current,59,182178.67
+2025-10-31,Prairies,Enterprise,Current,3,180777.31
+2025-10-31,Prairies,Mid-Market,1-30,1,16908.14
+2025-10-31,Prairies,Mid-Market,31-60,1,24670.77
+2025-10-31,Prairies,Mid-Market,61-90,1,41084.78
+2025-10-31,Prairies,Mid-Market,Current,19,186385.92
+2025-10-31,Prairies,SMB,1-30,8,14950.77
+2025-10-31,Prairies,SMB,120+,1,1612.79
+2025-10-31,Prairies,SMB,31-60,3,6686.19
+2025-10-31,Prairies,SMB,61-90,1,2321.64
+2025-10-31,Prairies,SMB,91-120,1,1758.72
+2025-10-31,Prairies,SMB,Current,13,29504.38
+2025-10-31,Quebec,Enterprise,1-30,2,66239.28
+2025-10-31,Quebec,Enterprise,31-60,2,108685.08
+2025-10-31,Quebec,Enterprise,61-90,2,104753.91
+2025-10-31,Quebec,Enterprise,Current,36,2018002.18
+2025-10-31,Quebec,Mid-Market,1-30,1,7419.46
+2025-10-31,Quebec,Mid-Market,120+,2,36978.61
+2025-10-31,Quebec,Mid-Market,31-60,2,12779.92
+2025-10-31,Quebec,Mid-Market,91-120,3,59403.83
+2025-10-31,Quebec,Mid-Market,Current,29,414094.12
+2025-10-31,Quebec,SMB,1-30,14,38404.54
+2025-10-31,Quebec,SMB,120+,5,10654.59
+2025-10-31,Quebec,SMB,31-60,7,12590.79
+2025-10-31,Quebec,SMB,61-90,4,12928.15
+2025-10-31,Quebec,SMB,91-120,2,2368.66
+2025-10-31,Quebec,SMB,Current,28,66195.26
+2025-11-30,Alberta,Enterprise,1-30,4,384620.57
+2025-11-30,Alberta,Enterprise,Current,23,1013199.47
+2025-11-30,Alberta,Mid-Market,1-30,4,38389.92
+2025-11-30,Alberta,Mid-Market,31-60,2,21729.83
+2025-11-30,Alberta,Mid-Market,61-90,1,19353.83
+2025-11-30,Alberta,Mid-Market,Current,24,314530.4
+2025-11-30,Alberta,SMB,1-30,8,28575.55
+2025-11-30,Alberta,SMB,120+,3,7930.18
+2025-11-30,Alberta,SMB,31-60,6,14141.89
+2025-11-30,Alberta,SMB,61-90,5,6540.65
+2025-11-30,Alberta,SMB,91-120,2,3156.46
+2025-11-30,Alberta,SMB,Current,22,80298.35
+2025-11-30,Atlantic,Enterprise,Current,4,259406.59
+2025-11-30,Atlantic,Mid-Market,120+,1,10598.13
+2025-11-30,Atlantic,Mid-Market,91-120,1,6111.56
+2025-11-30,Atlantic,Mid-Market,Current,2,19388.97
+2025-11-30,Atlantic,SMB,1-30,2,2422.99
+2025-11-30,Atlantic,SMB,120+,4,8013.4
+2025-11-30,Atlantic,SMB,31-60,1,523.58
+2025-11-30,Atlantic,SMB,61-90,2,5330.88
+2025-11-30,Atlantic,SMB,Current,11,33590.18
+2025-11-30,British Columbia,Enterprise,1-30,1,52892.25
+2025-11-30,British Columbia,Enterprise,Current,9,332921.54
+2025-11-30,British Columbia,Mid-Market,1-30,2,28565.06
+2025-11-30,British Columbia,Mid-Market,120+,3,58598.31
+2025-11-30,British Columbia,Mid-Market,31-60,1,7778.74
+2025-11-30,British Columbia,Mid-Market,91-120,1,15043.68
+2025-11-30,British Columbia,Mid-Market,Current,25,349502.76
+2025-11-30,British Columbia,SMB,1-30,4,11079.93
+2025-11-30,British Columbia,SMB,120+,3,11912.44
+2025-11-30,British Columbia,SMB,61-90,2,4586.75
+2025-11-30,British Columbia,SMB,Current,29,90167.3
+2025-11-30,Ontario,Enterprise,1-30,3,104742.8
+2025-11-30,Ontario,Enterprise,31-60,1,53063.12
+2025-11-30,Ontario,Enterprise,61-90,1,52363.32
+2025-11-30,Ontario,Enterprise,Current,40,2220555.4
+2025-11-30,Ontario,Mid-Market,1-30,7,134746.89
+2025-11-30,Ontario,Mid-Market,31-60,1,20273.57
+2025-11-30,Ontario,Mid-Market,61-90,3,24302.0
+2025-11-30,Ontario,Mid-Market,91-120,2,12917.21
+2025-11-30,Ontario,Mid-Market,Current,64,784964.36
+2025-11-30,Ontario,SMB,1-30,20,61099.01
+2025-11-30,Ontario,SMB,120+,4,8281.78
+2025-11-30,Ontario,SMB,31-60,7,19880.1
+2025-11-30,Ontario,SMB,61-90,7,32039.35
+2025-11-30,Ontario,SMB,91-120,5,20037.06
+2025-11-30,Ontario,SMB,Current,65,185494.42
+2025-11-30,Prairies,Enterprise,Current,4,212293.38
+2025-11-30,Prairies,Mid-Market,1-30,2,19224.08
+2025-11-30,Prairies,Mid-Market,61-90,1,24670.77
+2025-11-30,Prairies,Mid-Market,91-120,1,41084.78
+2025-11-30,Prairies,Mid-Market,Current,10,160636.77
+2025-11-30,Prairies,SMB,1-30,4,8718.34
+2025-11-30,Prairies,SMB,120+,1,1758.72
+2025-11-30,Prairies,SMB,31-60,3,4914.23
+2025-11-30,Prairies,SMB,61-90,2,4643.79
+2025-11-30,Prairies,SMB,91-120,1,2321.64
+2025-11-30,Prairies,SMB,Current,11,80166.56
+2025-11-30,Quebec,Enterprise,1-30,3,137895.22
+2025-11-30,Quebec,Enterprise,31-60,2,66239.28
+2025-11-30,Quebec,Enterprise,61-90,1,33152.75
+2025-11-30,Quebec,Enterprise,91-120,2,104753.91
+2025-11-30,Quebec,Enterprise,Current,39,2078098.63
+2025-11-30,Quebec,Mid-Market,1-30,10,126575.6
+2025-11-30,Quebec,Mid-Market,120+,2,60642.82
+2025-11-30,Quebec,Mid-Market,31-60,1,7419.46
+2025-11-30,Quebec,Mid-Market,61-90,2,12779.92
+2025-11-30,Quebec,Mid-Market,Current,32,386074.73
+2025-11-30,Quebec,SMB,1-30,5,12017.85
+2025-11-30,Quebec,SMB,120+,5,10097.37
+2025-11-30,Quebec,SMB,31-60,6,12898.17
+2025-11-30,Quebec,SMB,61-90,5,10268.51
+2025-11-30,Quebec,SMB,91-120,3,7140.87
+2025-11-30,Quebec,SMB,Current,27,78006.86
+2025-12-31,Alberta,Enterprise,1-30,3,113856.25
+2025-12-31,Alberta,Enterprise,31-60,1,64085.18
+2025-12-31,Alberta,Enterprise,Current,17,851303.19
+2025-12-31,Alberta,Mid-Market,1-30,7,92192.44
+2025-12-31,Alberta,Mid-Market,91-120,2,23046.24
+2025-12-31,Alberta,Mid-Market,Current,17,220948.15
+2025-12-31,Alberta,SMB,1-30,9,36225.57
+2025-12-31,Alberta,SMB,120+,1,2042.43
+2025-12-31,Alberta,SMB,31-60,4,12245.25
+2025-12-31,Alberta,SMB,61-90,2,7327.29
+2025-12-31,Alberta,SMB,91-120,2,2072.5
+2025-12-31,Alberta,SMB,Current,28,75377.05
+2025-12-31,Atlantic,Enterprise,Current,4,366281.95
+2025-12-31,Atlantic,Mid-Market,1-30,1,6863.01
+2025-12-31,Atlantic,Mid-Market,120+,2,16709.69
+2025-12-31,Atlantic,Mid-Market,Current,6,74775.19
+2025-12-31,Atlantic,SMB,1-30,3,5425.46
+2025-12-31,Atlantic,SMB,120+,3,5453.24
+2025-12-31,Atlantic,SMB,61-90,1,523.58
+2025-12-31,Atlantic,SMB,91-120,2,5330.88
+2025-12-31,Atlantic,SMB,Current,15,37308.05
+2025-12-31,British Columbia,Enterprise,31-60,1,52892.25
+2025-12-31,British Columbia,Enterprise,Current,7,333478.66
+2025-12-31,British Columbia,Mid-Market,1-30,2,8602.06
+2025-12-31,British Columbia,Mid-Market,120+,3,69569.05
+2025-12-31,British Columbia,Mid-Market,31-60,1,9658.4
+2025-12-31,British Columbia,Mid-Market,61-90,1,7778.74
+2025-12-31,British Columbia,Mid-Market,Current,19,299074.41
+2025-12-31,British Columbia,SMB,1-30,9,28135.4
+2025-12-31,British Columbia,SMB,120+,2,9403.52
+2025-12-31,British Columbia,SMB,31-60,2,6000.35
+2025-12-31,British Columbia,SMB,91-120,2,4586.75
+2025-12-31,British Columbia,SMB,Current,23,60938.09
+2025-12-31,Ontario,Enterprise,1-30,2,170033.18
+2025-12-31,Ontario,Enterprise,91-120,1,52363.32
+2025-12-31,Ontario,Enterprise,Current,34,1891179.8
+2025-12-31,Ontario,Mid-Market,1-30,3,38852.84
+2025-12-31,Ontario,Mid-Market,120+,2,12917.21
+2025-12-31,Ontario,Mid-Market,31-60,3,30785.1
+2025-12-31,Ontario,Mid-Market,61-90,1,20273.57
+2025-12-31,Ontario,Mid-Market,91-120,2,8854.74
+2025-12-31,Ontario,Mid-Market,Current,58,803879.12
+2025-12-31,Ontario,SMB,1-30,26,86360.81
+2025-12-31,Ontario,SMB,120+,7,20755.39
+2025-12-31,Ontario,SMB,31-60,8,40122.84
+2025-12-31,Ontario,SMB,61-90,6,17300.91
+2025-12-31,Ontario,SMB,91-120,5,17430.7
+2025-12-31,Ontario,SMB,Current,46,112224.72
+2025-12-31,Prairies,Enterprise,Current,8,461286.47
+2025-12-31,Prairies,Mid-Market,1-30,2,33590.12
+2025-12-31,Prairies,Mid-Market,120+,1,41084.78
+2025-12-31,Prairies,Mid-Market,31-60,2,19224.08
+2025-12-31,Prairies,Mid-Market,91-120,1,24670.77
+2025-12-31,Prairies,Mid-Market,Current,13,180052.21
+2025-12-31,Prairies,SMB,1-30,6,21028.31
+2025-12-31,Prairies,SMB,120+,1,1758.72
+2025-12-31,Prairies,SMB,31-60,2,4707.98
+2025-12-31,Prairies,SMB,61-90,3,4914.23
+2025-12-31,Prairies,SMB,91-120,1,621.81
+2025-12-31,Prairies,SMB,Current,15,52335.6
+2025-12-31,Quebec,Enterprise,1-30,2,174560.8
+2025-12-31,Quebec,Enterprise,120+,2,104753.91
+2025-12-31,Quebec,Enterprise,31-60,3,137895.22
+2025-12-31,Quebec,Enterprise,61-90,2,56229.32
+2025-12-31,Quebec,Enterprise,91-120,1,33152.75
+2025-12-31,Quebec,Enterprise,Current,39,1844310.86
+2025-12-31,Quebec,Mid-Market,1-30,5,61711.49
+2025-12-31,Quebec,Mid-Market,120+,1,40504.35
+2025-12-31,Quebec,Mid-Market,31-60,1,13857.99
+2025-12-31,Quebec,Mid-Market,91-120,1,7390.87
+2025-12-31,Quebec,Mid-Market,Current,18,228004.45
+2025-12-31,Quebec,SMB,1-30,6,20646.91
+2025-12-31,Quebec,SMB,120+,5,9448.84
+2025-12-31,Quebec,SMB,61-90,5,11364.58
+2025-12-31,Quebec,SMB,91-120,4,8500.71
+2025-12-31,Quebec,SMB,Current,29,67838.64

@@ -1,0 +1,216 @@
+// =====================================================================================
+// Collections & Bad Debt - DAX measures
+// Create an empty table to hold them: Home > Enter data > name it "_Measures" > Load,
+// then add each measure below (Modeling > New measure) and delete the dummy column.
+// Model assumptions (see powerbi/README.md):
+//   'Date'[Date] is marked as the date table.
+//   Active:   Date[Date] -> Invoices[invoice_date], Payments[payment_date],
+//             Activities[activity_date], AgingSnapshot[snapshot_date], RollFacts[from_month]
+//   Inactive: Date[Date] -> Invoices[write_off_date]
+//   Customers[customer_id] -> every fact; AgingBucket[bucket] -> AgingSnapshot[aging_bucket]
+//   and -> RollFacts[from_bucket]
+// Numbers to expect with no filters and Dec 2025 selected are in powerbi/README.md.
+// =====================================================================================
+
+
+// ---------- Display folder: 1 Receivables -------------------------------------------
+
+AR Balance =
+// open balance at the end of the latest month in the current filter context
+VAR _end = EOMONTH ( MAX ( 'Date'[Date] ), 0 )
+RETURN
+    CALCULATE ( SUM ( AgingSnapshot[balance] ), REMOVEFILTERS ( 'Date' ), 'Date'[Date] = _end )
+
+AR Current =
+CALCULATE ( [AR Balance], AgingBucket[bucket] = "Current" )
+
+AR Past Due =
+[AR Balance] - [AR Current]
+
+AR Over 90 =
+CALCULATE ( [AR Balance], AgingBucket[bucket] IN { "91-120", "120+" } )
+
+% Past Due =
+DIVIDE ( [AR Past Due], [AR Balance] )
+
+% Over 90 =
+DIVIDE ( [AR Over 90], [AR Balance] )
+
+% of AR =
+// share of total AR in the bucket / customer on the row
+DIVIDE ( [AR Balance], CALCULATE ( [AR Balance], REMOVEFILTERS ( AgingBucket ) ) )
+
+AR Balance PY =
+// same month one year earlier, for KPI card comparisons
+VAR _end = EOMONTH ( MAX ( 'Date'[Date] ), -12 )
+RETURN
+    CALCULATE ( SUM ( AgingSnapshot[balance] ), REMOVEFILTERS ( 'Date' ), 'Date'[Date] = _end )
+
+AR Change vs PY =
+DIVIDE ( [AR Balance] - [AR Balance PY], [AR Balance PY] )
+
+
+// ---------- Display folder: 2 Collection efficiency ---------------------------------
+
+Credit Sales =
+SUM ( Invoices[invoice_amount] )
+
+Sales This Month =
+VAR _end = EOMONTH ( MAX ( 'Date'[Date] ), 0 )
+RETURN
+    CALCULATE ( [Credit Sales], DATESINPERIOD ( 'Date'[Date], _end, -1, MONTH ) )
+
+Sales Last 3 Months =
+VAR _end = EOMONTH ( MAX ( 'Date'[Date] ), 0 )
+RETURN
+    CALCULATE ( [Credit Sales], DATESINPERIOD ( 'Date'[Date], _end, -3, MONTH ) )
+
+DSO =
+// month-end AR / last 3 months of credit sales x days in those 3 months
+VAR _end = EOMONTH ( MAX ( 'Date'[Date] ), 0 )
+VAR _days = INT ( _end - EOMONTH ( _end, -3 ) )
+RETURN
+    DIVIDE ( [AR Balance], [Sales Last 3 Months] ) * _days
+
+AR Prior Month =
+VAR _prev = EOMONTH ( MAX ( 'Date'[Date] ), -1 )
+RETURN
+    CALCULATE ( SUM ( AgingSnapshot[balance] ), REMOVEFILTERS ( 'Date' ), 'Date'[Date] = _prev )
+
+CEI =
+// Collection Effectiveness Index for the month:
+// (opening AR + sales - closing AR) / (opening AR + sales - closing current AR)
+VAR _open = [AR Prior Month]
+VAR _sales = [Sales This Month]
+RETURN
+    DIVIDE ( _open + _sales - [AR Balance], _open + _sales - [AR Current] )
+
+CEI 12M Avg =
+VAR _end = EOMONTH ( MAX ( 'Date'[Date] ), 0 )
+VAR _months =
+    CALCULATETABLE (
+        VALUES ( 'Date'[Month End] ),
+        DATESINPERIOD ( 'Date'[Date], _end, -12, MONTH )
+    )
+RETURN
+    AVERAGEX (
+        _months,
+        VAR _m = 'Date'[Month End]
+        RETURN CALCULATE ( [CEI], REMOVEFILTERS ( 'Date' ), 'Date'[Date] = _m )
+    )
+
+
+// ---------- Display folder: 3 Bad debt ---------------------------------------------
+
+Write-offs =
+CALCULATE (
+    SUM ( Invoices[write_off_amount] ),
+    USERELATIONSHIP ( 'Date'[Date], Invoices[write_off_date] )
+)
+
+Recoveries =
+CALCULATE ( SUM ( Payments[amount] ), Payments[payment_type] = "Recovery" )
+
+Net Write-offs =
+[Write-offs] - [Recoveries]
+
+Net Write-offs 12M =
+VAR _end = EOMONTH ( MAX ( 'Date'[Date] ), 0 )
+RETURN
+    CALCULATE ( [Net Write-offs], DATESINPERIOD ( 'Date'[Date], _end, -12, MONTH ) )
+
+Credit Sales 12M =
+VAR _end = EOMONTH ( MAX ( 'Date'[Date] ), 0 )
+RETURN
+    CALCULATE ( [Credit Sales], DATESINPERIOD ( 'Date'[Date], _end, -12, MONTH ) )
+
+Net Bad Debt % of Sales 12M =
+DIVIDE ( [Net Write-offs 12M], [Credit Sales 12M] )
+
+Recovery Rate =
+DIVIDE ( [Recoveries], [Write-offs] )
+
+Lifetime Write-off Rate =
+// write-offs on the invoices in context / their sales (use with credit band, segment...)
+DIVIDE ( SUM ( Invoices[write_off_amount] ), [Credit Sales] )
+
+
+// ---------- Display folder: 4 Roll rates & allowance -------------------------------
+
+Roll Base =
+SUM ( RollFacts[balance] )
+
+Roll Rate =
+// share of a bucket's balance that is in a worse bucket (or written off) a month later.
+// For 120+ there is no worse bucket, so it is the share that ends written off rather than paid.
+VAR _bucket = SELECTEDVALUE ( AgingBucket[bucket] )
+VAR _wo = CALCULATE ( [Roll Base], RollFacts[outcome] = "Written off" )
+VAR _fwd = CALCULATE ( [Roll Base], RollFacts[outcome] = "Rolled forward" )
+VAR _paid = CALCULATE ( [Roll Base], RollFacts[outcome] = "Paid" )
+RETURN
+    IF ( _bucket = "120+", DIVIDE ( _wo, _wo + _paid ), DIVIDE ( _fwd + _wo, [Roll Base] ) )
+
+Roll Rate 12M =
+// balance-weighted over the 12 from-months ending one month before the selected month
+VAR _end = EOMONTH ( MAX ( 'Date'[Date] ), -1 )
+RETURN
+    CALCULATE ( [Roll Rate], DATESINPERIOD ( 'Date'[Date], _end, -12, MONTH ) )
+
+Implied Loss Rate =
+// chain of roll rates from this bucket to write-off
+VAR _order = SELECTEDVALUE ( AgingBucket[sort_order] )
+RETURN
+    IF (
+        NOT ISBLANK ( _order ),
+        PRODUCTX ( FILTER ( ALL ( AgingBucket ), AgingBucket[sort_order] >= _order ), [Roll Rate 12M] )
+    )
+
+Required Allowance =
+SUMX ( VALUES ( AgingBucket[bucket] ), [AR Balance] * [Implied Loss Rate] )
+
+Allowance % of AR =
+DIVIDE ( [Required Allowance], [AR Balance] )
+
+// What-if: Modeling > New parameter > Numeric range, name "Stress Multiplier",
+// 1.0 to 2.0, increment 0.05, default 1.5. Power BI creates [Stress Multiplier Value].
+Stressed Allowance =
+SUMX (
+    VALUES ( AgingBucket[bucket] ),
+    [AR Balance] * MIN ( 1, [Implied Loss Rate] * [Stress Multiplier Value] )
+)
+
+
+// ---------- Display folder: 5 Collectors -------------------------------------------
+
+Invoices Worked =
+CALCULATE ( COUNTROWS ( Invoices ), Invoices[was_worked] = TRUE () )
+
+Early Contact Rate =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( Invoices ), Invoices[contacted_within_7_days] = TRUE () ),
+    [Invoices Worked]
+)
+
+Avg Days to First Contact =
+CALCULATE ( AVERAGE ( Invoices[first_contact_dpd] ), Invoices[was_worked] = TRUE () )
+
+Activities =
+COUNTROWS ( Activities )
+
+Promises to Pay =
+CALCULATE ( COUNTROWS ( Activities ), Activities[outcome] = "Promise to pay" )
+
+Promise Kept Rate =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( Activities ), Activities[outcome] = "Promise to pay", Activities[promise_kept] = 1 ),
+    [Promises to Pay]
+)
+
+
+// ---------- Display folder: 6 Labels for cards -------------------------------------
+
+As Of Label =
+"As of " & FORMAT ( EOMONTH ( MAX ( 'Date'[Date] ), 0 ), "d mmm yyyy" )
+
+AR vs PY Label =
+"vs prior year: " & FORMAT ( [AR Change vs PY], "+0%;-0%" )

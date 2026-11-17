@@ -1,0 +1,401 @@
+customer_id,customer_name,segment,region,industry,credit_score,credit_band,payment_terms_days,credit_limit,collector_id,collector_name
+CUST0001,Glacier Motors Group,Mid-Market,Ontario,Manufacturing,648,C,30,150000,COL3,Daniel Okafor
+CUST0002,Ridge Contracting Group,SMB,Prairies,Transportation,725,B,30,25000,COL3,Daniel Okafor
+CUST0003,Pinecrest Fabrication Group,Mid-Market,Alberta,Professional Services,702,B,30,150000,COL3,Daniel Okafor
+CUST0004,Quarry Systems Corp.,Mid-Market,Ontario,Manufacturing,680,B,30,150000,COL1,Arjun Mehta
+CUST0005,Summit Contracting Group,SMB,Atlantic,Construction,653,C,30,25000,COL4,Emily Tremblay
+CUST0006,Ironwood Design Inc.,Enterprise,Prairies,Energy,766,A,60,600000,COL1,Arjun Mehta
+CUST0007,Silverline Dental Group,Mid-Market,Ontario,Retail,743,B,30,150000,COL4,Emily Tremblay
+CUST0008,Westbrook Foods Inc.,Mid-Market,Alberta,Hospitality,630,C,45,150000,COL5,Liam Gagnon
+CUST0009,Lumen Services Co.,SMB,Ontario,Retail,587,D,30,25000,COL4,Emily Tremblay
+CUST0010,Harbour Builders Inc.,SMB,Atlantic,Retail,737,B,30,25000,COL3,Daniel Okafor
+CUST0011,Glacier Partners Group,SMB,British Columbia,Professional Services,631,C,30,25000,COL2,Sofia Rossi
+CUST0012,Cedar Supply Group,Enterprise,British Columbia,Retail,651,C,60,600000,COL5,Liam Gagnon
+CUST0013,Oakridge Interiors Inc.,Mid-Market,Ontario,Transportation,731,B,45,150000,COL2,Sofia Rossi
+CUST0014,Cedar Builders Co.,Mid-Market,Prairies,Transportation,732,B,45,150000,COL3,Daniel Okafor
+CUST0015,Lumen Freight Ltd.,SMB,Ontario,Construction,553,D,30,25000,COL4,Emily Tremblay
+CUST0016,Glacier Builders Group,SMB,Ontario,Retail,676,C,30,25000,COL5,Liam Gagnon
+CUST0017,Meadow Interiors Group,SMB,Ontario,Professional Services,711,B,30,25000,COL5,Liam Gagnon
+CUST0018,Riverside Systems Ltd.,SMB,Alberta,Hospitality,686,B,30,25000,COL1,Arjun Mehta
+CUST0019,Oakridge Fabrication Inc.,Mid-Market,Ontario,Construction,744,B,30,150000,COL5,Liam Gagnon
+CUST0020,Polaris Builders Corp.,Mid-Market,Prairies,Energy,602,C,30,150000,COL1,Arjun Mehta
+CUST0021,Summit Fabrication Corp.,Mid-Market,British Columbia,Manufacturing,723,B,30,150000,COL3,Daniel Okafor
+CUST0022,Redwood Fabrication Co.,SMB,Ontario,Construction,639,C,30,25000,COL5,Liam Gagnon
+CUST0023,Silverline Distribution Corp.,Enterprise,Ontario,Energy,716,B,60,600000,COL4,Emily Tremblay
+CUST0024,Prairie Logistics Ltd.,Mid-Market,Ontario,Construction,761,A,30,150000,COL5,Liam Gagnon
+CUST0025,Evergreen Contracting Ltd.,Mid-Market,British Columbia,Hospitality,804,A,45,150000,COL2,Sofia Rossi
+CUST0026,Ironwood Retail Corp.,SMB,Alberta,Energy,786,A,30,25000,COL2,Sofia Rossi
+CUST0027,Granite Logistics Corp.,SMB,Ontario,Hospitality,752,A,30,25000,COL2,Sofia Rossi
+CUST0028,Bluewater Tooling Corp.,SMB,Prairies,Hospitality,652,C,30,25000,COL2,Sofia Rossi
+CUST0029,Glacier Clinics Ltd.,SMB,Ontario,Healthcare,685,B,30,25000,COL4,Emily Tremblay
+CUST0030,Coastal Freight Co.,Mid-Market,Alberta,Retail,754,A,30,150000,COL3,Daniel Okafor
+CUST0031,Summit Freight Ltd.,Mid-Market,Atlantic,Hospitality,708,B,30,150000,COL4,Emily Tremblay
+CUST0032,Juniper Partners Co.,Enterprise,Alberta,Energy,759,A,60,600000,COL3,Daniel Okafor
+CUST0033,Polaris Contracting Inc.,SMB,British Columbia,Construction,718,B,30,25000,COL2,Sofia Rossi
+CUST0034,Highland Partners Inc.,SMB,Alberta,Energy,656,C,30,25000,COL1,Arjun Mehta
+CUST0035,Harbour Motors Group,SMB,Ontario,Healthcare,609,C,30,25000,COL3,Daniel Okafor
+CUST0036,Westbrook Distribution Group,SMB,Ontario,Hospitality,631,C,30,25000,COL5,Liam Gagnon
+CUST0037,Pinecrest Fabrication Ltd.,SMB,Ontario,Retail,704,B,30,25000,COL5,Liam Gagnon
+CUST0038,Cedar Energy Corp.,SMB,Quebec,Hospitality,660,C,30,25000,COL2,Sofia Rossi
+CUST0039,Summit Dental Inc.,SMB,Alberta,Retail,684,B,30,25000,COL3,Daniel Okafor
+CUST0040,Glacier Tooling Group,Mid-Market,British Columbia,Manufacturing,747,B,30,150000,COL4,Emily Tremblay
+CUST0041,Silverline Clinics Group,SMB,Prairies,Transportation,634,C,30,25000,COL4,Emily Tremblay
+CUST0042,Riverside Motors Ltd.,Mid-Market,Ontario,Construction,753,A,30,150000,COL1,Arjun Mehta
+CUST0043,Falcon Hospitality Group,Mid-Market,Alberta,Healthcare,727,B,45,150000,COL3,Daniel Okafor
+CUST0044,Lumen Logistics Co.,SMB,Ontario,Hospitality,574,D,30,25000,COL1,Arjun Mehta
+CUST0045,Silverline Contracting Ltd.,Mid-Market,Ontario,Retail,801,A,45,150000,COL1,Arjun Mehta
+CUST0046,Silverline Design Inc.,Mid-Market,Alberta,Manufacturing,665,C,30,150000,COL4,Emily Tremblay
+CUST0047,Juniper Foods Ltd.,SMB,Atlantic,Manufacturing,544,D,30,25000,COL1,Arjun Mehta
+CUST0048,Summit Supply Ltd.,SMB,British Columbia,Transportation,587,D,30,25000,COL2,Sofia Rossi
+CUST0049,Oakridge Services Ltd.,Mid-Market,Ontario,Energy,629,C,45,150000,COL3,Daniel Okafor
+CUST0050,Westbrook Distribution Ltd.,SMB,British Columbia,Professional Services,664,C,30,25000,COL4,Emily Tremblay
+CUST0051,Polaris Foods Ltd.,SMB,Ontario,Retail,641,C,30,25000,COL3,Daniel Okafor
+CUST0052,Northstar Logistics Group,SMB,Prairies,Construction,636,C,30,25000,COL1,Arjun Mehta
+CUST0053,Lumen Energy Group,Mid-Market,Alberta,Construction,743,B,30,150000,COL4,Emily Tremblay
+CUST0054,Juniper Retail Group,Mid-Market,Ontario,Hospitality,724,B,30,150000,COL5,Liam Gagnon
+CUST0055,Riverside Foods Group,Mid-Market,Ontario,Retail,722,B,45,150000,COL5,Liam Gagnon
+CUST0056,Highland Services Group,Mid-Market,Ontario,Retail,729,B,45,150000,COL4,Emily Tremblay
+CUST0057,Summit Hospitality Inc.,SMB,Atlantic,Professional Services,703,B,30,25000,COL3,Daniel Okafor
+CUST0058,Granite Distribution Group,SMB,Quebec,Professional Services,512,D,30,25000,COL5,Liam Gagnon
+CUST0059,Oakridge Tooling Co.,SMB,Alberta,Professional Services,634,C,30,25000,COL3,Daniel Okafor
+CUST0060,Westbrook Distribution Corp.,SMB,British Columbia,Manufacturing,507,D,30,25000,COL1,Arjun Mehta
+CUST0061,Coastal Dental Co.,Mid-Market,British Columbia,Hospitality,703,B,30,150000,COL5,Liam Gagnon
+CUST0062,Keystone Fabrication Corp.,SMB,Ontario,Hospitality,660,C,30,25000,COL2,Sofia Rossi
+CUST0063,Summit Logistics Co.,SMB,Atlantic,Retail,733,B,30,25000,COL5,Liam Gagnon
+CUST0064,Evergreen Partners Group,Mid-Market,Ontario,Hospitality,783,A,30,150000,COL2,Sofia Rossi
+CUST0065,Ironwood Retail Co.,Mid-Market,British Columbia,Hospitality,714,B,30,150000,COL5,Liam Gagnon
+CUST0066,Lakeshore Retail Inc.,SMB,British Columbia,Healthcare,625,C,30,25000,COL3,Daniel Okafor
+CUST0067,Riverside Services Co.,SMB,British Columbia,Professional Services,694,B,30,25000,COL3,Daniel Okafor
+CUST0068,Juniper Freight Group,SMB,Atlantic,Transportation,623,C,30,25000,COL2,Sofia Rossi
+CUST0069,Redwood Fabrication Corp.,SMB,Ontario,Hospitality,660,C,30,25000,COL5,Liam Gagnon
+CUST0070,Meadow Foods Ltd.,SMB,Quebec,Transportation,729,B,30,25000,COL1,Arjun Mehta
+CUST0071,Cedar Interiors Ltd.,SMB,Quebec,Professional Services,621,C,30,25000,COL3,Daniel Okafor
+CUST0072,Ridge Retail Ltd.,SMB,Quebec,Hospitality,716,B,30,25000,COL2,Sofia Rossi
+CUST0073,Oakridge Contracting Group,Mid-Market,Ontario,Manufacturing,747,B,30,150000,COL3,Daniel Okafor
+CUST0074,Aurora Energy Inc.,SMB,Ontario,Professional Services,593,D,30,25000,COL2,Sofia Rossi
+CUST0075,Silverline Partners Co.,SMB,Ontario,Transportation,728,B,30,25000,COL4,Emily Tremblay
+CUST0076,Lakeshore Services Corp.,SMB,Ontario,Energy,709,B,30,25000,COL2,Sofia Rossi
+CUST0077,Prairie Distribution Group,SMB,Quebec,Retail,667,C,30,25000,COL1,Arjun Mehta
+CUST0078,Granite Services Group,Mid-Market,British Columbia,Healthcare,647,C,30,150000,COL1,Arjun Mehta
+CUST0079,Keystone Motors Co.,SMB,British Columbia,Energy,600,C,30,25000,COL4,Emily Tremblay
+CUST0080,Pinecrest Freight Co.,Mid-Market,Quebec,Hospitality,662,C,30,150000,COL2,Sofia Rossi
+CUST0081,Coastal Contracting Co.,Mid-Market,Quebec,Energy,738,B,30,150000,COL2,Sofia Rossi
+CUST0082,Westbrook Logistics Inc.,SMB,Ontario,Construction,593,D,30,25000,COL4,Emily Tremblay
+CUST0083,Polaris Services Corp.,Mid-Market,British Columbia,Construction,731,B,30,150000,COL2,Sofia Rossi
+CUST0084,Summit Partners Inc.,SMB,Ontario,Professional Services,573,D,30,25000,COL2,Sofia Rossi
+CUST0085,Keystone Contracting Ltd.,SMB,Ontario,Manufacturing,646,C,30,25000,COL2,Sofia Rossi
+CUST0086,Westbrook Logistics Corp.,SMB,Quebec,Hospitality,668,C,30,25000,COL2,Sofia Rossi
+CUST0087,Westbrook Design Group,Mid-Market,Quebec,Healthcare,871,A,30,150000,COL4,Emily Tremblay
+CUST0088,Birch Foods Corp.,SMB,Ontario,Healthcare,564,D,30,25000,COL3,Daniel Okafor
+CUST0089,Meadow Energy Inc.,SMB,British Columbia,Energy,763,A,30,25000,COL5,Liam Gagnon
+CUST0090,Quarry Hospitality Inc.,SMB,British Columbia,Construction,670,C,30,25000,COL4,Emily Tremblay
+CUST0091,Highland Design Group,SMB,Alberta,Professional Services,689,B,30,25000,COL1,Arjun Mehta
+CUST0092,Lakeshore Clinics Corp.,Mid-Market,British Columbia,Energy,708,B,30,150000,COL2,Sofia Rossi
+CUST0093,Birch Systems Inc.,SMB,British Columbia,Transportation,691,B,30,25000,COL2,Sofia Rossi
+CUST0094,Coastal Partners Group,SMB,Ontario,Healthcare,649,C,30,25000,COL3,Daniel Okafor
+CUST0095,Ridge Motors Corp.,SMB,Alberta,Retail,762,A,30,25000,COL2,Sofia Rossi
+CUST0096,Evergreen Distribution Inc.,Mid-Market,British Columbia,Transportation,668,C,45,150000,COL5,Liam Gagnon
+CUST0097,Birch Motors Ltd.,SMB,Quebec,Healthcare,739,B,30,25000,COL2,Sofia Rossi
+CUST0098,Redwood Tooling Inc.,SMB,British Columbia,Retail,615,C,30,25000,COL3,Daniel Okafor
+CUST0099,Keystone Freight Co.,SMB,Quebec,Manufacturing,656,C,30,25000,COL1,Arjun Mehta
+CUST0100,Evergreen Foods Co.,Enterprise,Quebec,Energy,675,C,60,600000,COL5,Liam Gagnon
+CUST0101,Birch Contracting Co.,Enterprise,Alberta,Manufacturing,782,A,60,600000,COL5,Liam Gagnon
+CUST0102,Highland Design Ltd.,Mid-Market,Prairies,Retail,801,A,45,150000,COL4,Emily Tremblay
+CUST0103,Ironwood Logistics Co.,SMB,Atlantic,Transportation,655,C,30,25000,COL2,Sofia Rossi
+CUST0104,Cedar Systems Co.,Enterprise,Quebec,Retail,736,B,45,600000,COL1,Arjun Mehta
+CUST0105,Cedar Distribution Ltd.,Mid-Market,Quebec,Energy,622,C,30,150000,COL4,Emily Tremblay
+CUST0106,Maple Fabrication Corp.,Mid-Market,Alberta,Professional Services,684,B,45,150000,COL3,Daniel Okafor
+CUST0107,Coastal Partners Corp.,SMB,Ontario,Energy,549,D,30,25000,COL5,Liam Gagnon
+CUST0108,Keystone Energy Corp.,SMB,Alberta,Energy,596,D,30,25000,COL4,Emily Tremblay
+CUST0109,Prairie Freight Ltd.,SMB,Quebec,Retail,676,C,30,25000,COL3,Daniel Okafor
+CUST0110,Evergreen Retail Group,Enterprise,Ontario,Retail,842,A,45,600000,COL5,Liam Gagnon
+CUST0111,Oakridge Foods Inc.,SMB,Ontario,Manufacturing,857,A,30,25000,COL5,Liam Gagnon
+CUST0112,Oakridge Energy Inc.,SMB,Prairies,Healthcare,619,C,30,25000,COL3,Daniel Okafor
+CUST0113,Lakeshore Retail Ltd.,SMB,Ontario,Energy,760,A,30,25000,COL1,Arjun Mehta
+CUST0114,Cedar Interiors Inc.,SMB,Ontario,Transportation,677,C,30,25000,COL1,Arjun Mehta
+CUST0115,Northstar Logistics Co.,SMB,Ontario,Transportation,649,C,30,25000,COL3,Daniel Okafor
+CUST0116,Redwood Tooling Ltd.,Mid-Market,Ontario,Energy,730,B,30,150000,COL3,Daniel Okafor
+CUST0117,Aurora Supply Ltd.,Mid-Market,Ontario,Transportation,704,B,30,150000,COL1,Arjun Mehta
+CUST0118,Redwood Builders Corp.,Mid-Market,Alberta,Healthcare,708,B,30,150000,COL1,Arjun Mehta
+CUST0119,Lumen Partners Co.,SMB,Ontario,Healthcare,631,C,30,25000,COL4,Emily Tremblay
+CUST0120,Meadow Partners Co.,Mid-Market,Alberta,Hospitality,602,C,30,150000,COL4,Emily Tremblay
+CUST0121,Lumen Foods Group,SMB,Prairies,Construction,552,D,30,25000,COL1,Arjun Mehta
+CUST0122,Lakeshore Interiors Group,Mid-Market,Quebec,Transportation,746,B,30,150000,COL3,Daniel Okafor
+CUST0123,Ironwood Builders Ltd.,SMB,Ontario,Transportation,641,C,30,25000,COL1,Arjun Mehta
+CUST0124,Bluewater Services Group,SMB,British Columbia,Transportation,618,C,30,25000,COL4,Emily Tremblay
+CUST0125,Riverside Distribution Corp.,SMB,Ontario,Hospitality,661,C,30,25000,COL5,Liam Gagnon
+CUST0126,Bluewater Retail Co.,SMB,Quebec,Professional Services,716,B,30,25000,COL5,Liam Gagnon
+CUST0127,Westbrook Systems Co.,SMB,Atlantic,Energy,673,C,30,25000,COL3,Daniel Okafor
+CUST0128,Glacier Systems Inc.,SMB,Atlantic,Hospitality,614,C,30,25000,COL4,Emily Tremblay
+CUST0129,Harbour Foods Corp.,SMB,Alberta,Healthcare,746,B,30,25000,COL5,Liam Gagnon
+CUST0130,Highland Retail Ltd.,SMB,Ontario,Construction,771,A,30,25000,COL4,Emily Tremblay
+CUST0131,Juniper Fabrication Inc.,SMB,British Columbia,Professional Services,695,B,30,25000,COL3,Daniel Okafor
+CUST0132,Northstar Design Group,Enterprise,Alberta,Energy,818,A,60,600000,COL4,Emily Tremblay
+CUST0133,Oakridge Retail Corp.,SMB,Quebec,Transportation,747,B,30,25000,COL3,Daniel Okafor
+CUST0134,Ironwood Design Co.,SMB,British Columbia,Professional Services,739,B,30,25000,COL5,Liam Gagnon
+CUST0135,Cedar Motors Inc.,SMB,Ontario,Professional Services,703,B,30,25000,COL3,Daniel Okafor
+CUST0136,Ironwood Motors Inc.,SMB,Ontario,Professional Services,702,B,30,25000,COL5,Liam Gagnon
+CUST0137,Silverline Tooling Corp.,Enterprise,Quebec,Hospitality,786,A,45,600000,COL1,Arjun Mehta
+CUST0138,Keystone Services Group,SMB,Ontario,Construction,583,D,30,25000,COL1,Arjun Mehta
+CUST0139,Northstar Tooling Group,Mid-Market,Ontario,Construction,749,B,45,150000,COL1,Arjun Mehta
+CUST0140,Polaris Energy Ltd.,SMB,Alberta,Retail,565,D,30,25000,COL3,Daniel Okafor
+CUST0141,Riverside Services Group,SMB,Atlantic,Healthcare,604,C,30,25000,COL4,Emily Tremblay
+CUST0142,Riverside Foods Corp.,SMB,British Columbia,Transportation,751,A,30,25000,COL2,Sofia Rossi
+CUST0143,Falcon Clinics Ltd.,Enterprise,Alberta,Healthcare,809,A,45,600000,COL1,Arjun Mehta
+CUST0144,Northstar Builders Ltd.,SMB,Atlantic,Construction,764,A,30,25000,COL5,Liam Gagnon
+CUST0145,Evergreen Dental Group,SMB,Ontario,Retail,641,C,30,25000,COL4,Emily Tremblay
+CUST0146,Cedar Clinics Corp.,SMB,Quebec,Energy,579,D,30,25000,COL4,Emily Tremblay
+CUST0147,Keystone Tooling Corp.,SMB,Quebec,Energy,643,C,30,25000,COL3,Daniel Okafor
+CUST0148,Highland Fabrication Corp.,SMB,Ontario,Healthcare,667,C,30,25000,COL3,Daniel Okafor
+CUST0149,Summit Hospitality Ltd.,SMB,Alberta,Professional Services,666,C,30,25000,COL1,Arjun Mehta
+CUST0150,Redwood Freight Ltd.,SMB,Quebec,Transportation,739,B,30,25000,COL1,Arjun Mehta
+CUST0151,Birch Retail Ltd.,Mid-Market,Quebec,Energy,675,C,30,150000,COL5,Liam Gagnon
+CUST0152,Summit Interiors Co.,Mid-Market,Ontario,Energy,725,B,45,150000,COL2,Sofia Rossi
+CUST0153,Keystone Partners Group,SMB,Ontario,Transportation,591,D,30,25000,COL4,Emily Tremblay
+CUST0154,Riverside Motors Group,SMB,Prairies,Healthcare,692,B,30,25000,COL4,Emily Tremblay
+CUST0155,Birch Motors Group,SMB,Ontario,Transportation,660,C,30,25000,COL2,Sofia Rossi
+CUST0156,Meadow Design Co.,Mid-Market,Ontario,Manufacturing,648,C,30,150000,COL2,Sofia Rossi
+CUST0157,Oakridge Partners Inc.,SMB,Ontario,Manufacturing,643,C,30,25000,COL4,Emily Tremblay
+CUST0158,Coastal Supply Group,Mid-Market,Quebec,Hospitality,687,B,45,150000,COL1,Arjun Mehta
+CUST0159,Cedar Distribution Inc.,Mid-Market,British Columbia,Hospitality,681,B,30,150000,COL3,Daniel Okafor
+CUST0160,Bluewater Dental Group,Mid-Market,Quebec,Hospitality,824,A,45,150000,COL5,Liam Gagnon
+CUST0161,Silverline Interiors Inc.,SMB,Ontario,Healthcare,653,C,30,25000,COL4,Emily Tremblay
+CUST0162,Redwood Services Group,Enterprise,Ontario,Healthcare,733,B,60,600000,COL4,Emily Tremblay
+CUST0163,Aurora Energy Corp.,SMB,Prairies,Construction,513,D,30,25000,COL1,Arjun Mehta
+CUST0164,Pinecrest Contracting Inc.,SMB,British Columbia,Hospitality,597,D,30,25000,COL1,Arjun Mehta
+CUST0165,Glacier Dental Ltd.,SMB,British Columbia,Hospitality,642,C,30,25000,COL2,Sofia Rossi
+CUST0166,Lumen Fabrication Ltd.,SMB,British Columbia,Energy,612,C,30,25000,COL2,Sofia Rossi
+CUST0167,Oakridge Energy Corp.,Mid-Market,Alberta,Hospitality,797,A,30,150000,COL1,Arjun Mehta
+CUST0168,Birch Supply Corp.,Mid-Market,Ontario,Healthcare,688,B,30,150000,COL5,Liam Gagnon
+CUST0169,Pinecrest Retail Ltd.,SMB,Quebec,Construction,750,A,30,25000,COL1,Arjun Mehta
+CUST0170,Meadow Freight Inc.,Enterprise,Quebec,Retail,754,A,60,600000,COL4,Emily Tremblay
+CUST0171,Riverside Hospitality Ltd.,SMB,Ontario,Manufacturing,663,C,30,25000,COL3,Daniel Okafor
+CUST0172,Silverline Systems Corp.,SMB,Prairies,Healthcare,654,C,30,25000,COL4,Emily Tremblay
+CUST0173,Ridge Clinics Ltd.,SMB,Quebec,Manufacturing,660,C,30,25000,COL2,Sofia Rossi
+CUST0174,Westbrook Foods Corp.,Enterprise,Alberta,Healthcare,870,A,60,600000,COL2,Sofia Rossi
+CUST0175,Juniper Retail Co.,SMB,Prairies,Professional Services,498,D,30,25000,COL4,Emily Tremblay
+CUST0176,Glacier Builders Ltd.,SMB,Quebec,Retail,520,D,30,25000,COL2,Sofia Rossi
+CUST0177,Coastal Retail Corp.,SMB,Prairies,Manufacturing,622,C,30,25000,COL4,Emily Tremblay
+CUST0178,Lumen Motors Inc.,Enterprise,British Columbia,Retail,751,A,60,600000,COL1,Arjun Mehta
+CUST0179,Cedar Clinics Co.,Mid-Market,Prairies,Manufacturing,748,B,45,150000,COL1,Arjun Mehta
+CUST0180,Lakeshore Partners Co.,Mid-Market,Quebec,Transportation,733,B,30,150000,COL4,Emily Tremblay
+CUST0181,Northstar Dental Co.,Mid-Market,Quebec,Construction,673,C,45,150000,COL4,Emily Tremblay
+CUST0182,Evergreen Supply Ltd.,Mid-Market,Quebec,Manufacturing,771,A,45,150000,COL1,Arjun Mehta
+CUST0183,Ironwood Contracting Inc.,SMB,Ontario,Construction,732,B,30,25000,COL5,Liam Gagnon
+CUST0184,Granite Tooling Ltd.,SMB,Quebec,Energy,673,C,30,25000,COL1,Arjun Mehta
+CUST0185,Quarry Systems Group,Mid-Market,Prairies,Transportation,767,A,45,150000,COL5,Liam Gagnon
+CUST0186,Summit Supply Group,Mid-Market,British Columbia,Retail,719,B,30,150000,COL4,Emily Tremblay
+CUST0187,Keystone Contracting Inc.,SMB,Ontario,Retail,621,C,30,25000,COL5,Liam Gagnon
+CUST0188,Polaris Energy Group,SMB,Ontario,Construction,709,B,30,25000,COL5,Liam Gagnon
+CUST0189,Meadow Tooling Co.,Mid-Market,Ontario,Healthcare,708,B,45,150000,COL2,Sofia Rossi
+CUST0190,Evergreen Contracting Inc.,SMB,Ontario,Professional Services,660,C,30,25000,COL4,Emily Tremblay
+CUST0191,Silverline Interiors Group,Enterprise,Atlantic,Hospitality,853,A,45,600000,COL2,Sofia Rossi
+CUST0192,Pinecrest Interiors Inc.,SMB,Quebec,Energy,488,D,30,25000,COL3,Daniel Okafor
+CUST0193,Ironwood Contracting Group,SMB,Ontario,Manufacturing,561,D,30,25000,COL2,Sofia Rossi
+CUST0194,Ridge Dental Ltd.,Mid-Market,British Columbia,Manufacturing,617,C,45,150000,COL3,Daniel Okafor
+CUST0195,Summit Clinics Co.,SMB,Ontario,Healthcare,635,C,30,25000,COL5,Liam Gagnon
+CUST0196,Keystone Distribution Inc.,SMB,Ontario,Retail,642,C,30,25000,COL3,Daniel Okafor
+CUST0197,Birch Design Ltd.,SMB,Alberta,Energy,554,D,30,25000,COL1,Arjun Mehta
+CUST0198,Keystone Foods Inc.,Mid-Market,British Columbia,Retail,631,C,30,150000,COL2,Sofia Rossi
+CUST0199,Lumen Distribution Ltd.,SMB,Atlantic,Healthcare,600,C,30,25000,COL4,Emily Tremblay
+CUST0200,Ridge Contracting Corp.,SMB,British Columbia,Hospitality,832,A,30,25000,COL3,Daniel Okafor
+CUST0201,Bluewater Clinics Corp.,Mid-Market,Quebec,Construction,826,A,30,150000,COL3,Daniel Okafor
+CUST0202,Westbrook Services Group,Enterprise,Alberta,Healthcare,721,B,60,600000,COL3,Daniel Okafor
+CUST0203,Birch Energy Co.,SMB,Prairies,Healthcare,635,C,30,25000,COL2,Sofia Rossi
+CUST0204,Bluewater Hospitality Inc.,SMB,Alberta,Manufacturing,580,D,30,25000,COL3,Daniel Okafor
+CUST0205,Birch Interiors Group,SMB,Atlantic,Retail,526,D,30,25000,COL4,Emily Tremblay
+CUST0206,Juniper Design Inc.,SMB,Alberta,Construction,652,C,30,25000,COL5,Liam Gagnon
+CUST0207,Prairie Energy Corp.,SMB,Prairies,Construction,590,D,30,25000,COL4,Emily Tremblay
+CUST0208,Meadow Tooling Inc.,Mid-Market,Ontario,Healthcare,694,B,30,150000,COL5,Liam Gagnon
+CUST0209,Falcon Motors Inc.,SMB,Alberta,Construction,548,D,30,25000,COL5,Liam Gagnon
+CUST0210,Pinecrest Logistics Ltd.,SMB,Quebec,Energy,607,C,30,25000,COL1,Arjun Mehta
+CUST0211,Pinecrest Motors Corp.,Mid-Market,British Columbia,Retail,710,B,30,150000,COL2,Sofia Rossi
+CUST0212,Redwood Partners Inc.,SMB,British Columbia,Transportation,686,B,30,25000,COL2,Sofia Rossi
+CUST0213,Granite Contracting Ltd.,SMB,Atlantic,Transportation,689,B,30,25000,COL1,Arjun Mehta
+CUST0214,Falcon Builders Corp.,Mid-Market,Atlantic,Healthcare,608,C,45,150000,COL1,Arjun Mehta
+CUST0215,Quarry Builders Ltd.,Mid-Market,Ontario,Energy,760,A,30,150000,COL4,Emily Tremblay
+CUST0216,Lumen Contracting Inc.,Mid-Market,Alberta,Construction,644,C,30,150000,COL2,Sofia Rossi
+CUST0217,Aurora Partners Group,SMB,Alberta,Retail,704,B,30,25000,COL1,Arjun Mehta
+CUST0218,Northstar Systems Co.,SMB,Quebec,Manufacturing,659,C,30,25000,COL2,Sofia Rossi
+CUST0219,Summit Dental Co.,Enterprise,Ontario,Retail,654,C,60,600000,COL2,Sofia Rossi
+CUST0220,Summit Partners Corp.,SMB,Ontario,Manufacturing,638,C,30,25000,COL1,Arjun Mehta
+CUST0221,Quarry Logistics Group,SMB,Alberta,Manufacturing,686,B,30,25000,COL1,Arjun Mehta
+CUST0222,Aurora Logistics Co.,SMB,Quebec,Professional Services,703,B,30,25000,COL4,Emily Tremblay
+CUST0223,Westbrook Retail Inc.,Mid-Market,Atlantic,Manufacturing,690,B,30,150000,COL5,Liam Gagnon
+CUST0224,Cedar Clinics Group,Enterprise,Quebec,Energy,857,A,60,600000,COL3,Daniel Okafor
+CUST0225,Bluewater Partners Group,SMB,Atlantic,Professional Services,731,B,30,25000,COL4,Emily Tremblay
+CUST0226,Meadow Contracting Co.,Enterprise,Quebec,Energy,732,B,60,600000,COL5,Liam Gagnon
+CUST0227,Westbrook Fabrication Corp.,SMB,Alberta,Construction,713,B,30,25000,COL5,Liam Gagnon
+CUST0228,Westbrook Hospitality Co.,SMB,Ontario,Energy,795,A,30,25000,COL1,Arjun Mehta
+CUST0229,Glacier Services Co.,Mid-Market,British Columbia,Hospitality,837,A,45,150000,COL5,Liam Gagnon
+CUST0230,Harbour Clinics Ltd.,SMB,Alberta,Energy,574,D,30,25000,COL1,Arjun Mehta
+CUST0231,Maple Builders Corp.,SMB,Atlantic,Manufacturing,595,D,30,25000,COL1,Arjun Mehta
+CUST0232,Polaris Contracting Corp.,SMB,Alberta,Energy,764,A,30,25000,COL3,Daniel Okafor
+CUST0233,Cedar Fabrication Inc.,Enterprise,Ontario,Hospitality,676,C,60,600000,COL4,Emily Tremblay
+CUST0234,Lumen Retail Group,SMB,Quebec,Construction,567,D,30,25000,COL1,Arjun Mehta
+CUST0235,Lakeshore Supply Ltd.,Enterprise,Ontario,Healthcare,716,B,45,600000,COL2,Sofia Rossi
+CUST0236,Juniper Dental Group,Mid-Market,Ontario,Retail,729,B,45,150000,COL2,Sofia Rossi
+CUST0237,Glacier Freight Ltd.,SMB,British Columbia,Energy,653,C,30,25000,COL2,Sofia Rossi
+CUST0238,Coastal Freight Corp.,Mid-Market,Alberta,Manufacturing,654,C,45,150000,COL5,Liam Gagnon
+CUST0239,Westbrook Foods Ltd.,SMB,Alberta,Retail,613,C,30,25000,COL2,Sofia Rossi
+CUST0240,Harbour Partners Inc.,SMB,Prairies,Hospitality,610,C,30,25000,COL2,Sofia Rossi
+CUST0241,Cedar Freight Ltd.,Mid-Market,Alberta,Healthcare,638,C,30,150000,COL1,Arjun Mehta
+CUST0242,Northstar Design Ltd.,Mid-Market,Alberta,Construction,860,A,30,150000,COL1,Arjun Mehta
+CUST0243,Glacier Fabrication Ltd.,SMB,Ontario,Professional Services,681,B,30,25000,COL1,Arjun Mehta
+CUST0244,Evergreen Interiors Corp.,SMB,Ontario,Professional Services,722,B,30,25000,COL3,Daniel Okafor
+CUST0245,Riverside Services Corp.,Mid-Market,British Columbia,Transportation,666,C,30,150000,COL3,Daniel Okafor
+CUST0246,Silverline Contracting Group,Mid-Market,Prairies,Hospitality,687,B,30,150000,COL3,Daniel Okafor
+CUST0247,Glacier Dental Group,Mid-Market,Ontario,Healthcare,650,C,45,150000,COL5,Liam Gagnon
+CUST0248,Keystone Retail Inc.,SMB,Quebec,Hospitality,474,D,30,25000,COL3,Daniel Okafor
+CUST0249,Riverside Contracting Co.,SMB,British Columbia,Hospitality,564,D,30,25000,COL1,Arjun Mehta
+CUST0250,Lumen Energy Corp.,SMB,Ontario,Retail,533,D,30,25000,COL2,Sofia Rossi
+CUST0251,Evergreen Partners Co.,Mid-Market,Quebec,Construction,543,D,30,150000,COL2,Sofia Rossi
+CUST0252,Northstar Distribution Inc.,Mid-Market,Prairies,Manufacturing,616,C,30,150000,COL5,Liam Gagnon
+CUST0253,Ironwood Freight Inc.,SMB,British Columbia,Healthcare,753,A,30,25000,COL2,Sofia Rossi
+CUST0254,Redwood Clinics Co.,SMB,Ontario,Retail,657,C,30,25000,COL1,Arjun Mehta
+CUST0255,Harbour Motors Ltd.,SMB,Prairies,Construction,750,A,30,25000,COL4,Emily Tremblay
+CUST0256,Coastal Design Corp.,Mid-Market,Quebec,Professional Services,729,B,30,150000,COL3,Daniel Okafor
+CUST0257,Falcon Partners Inc.,Mid-Market,Prairies,Manufacturing,755,A,30,150000,COL1,Arjun Mehta
+CUST0258,Oakridge Supply Inc.,SMB,Ontario,Hospitality,597,D,30,25000,COL4,Emily Tremblay
+CUST0259,Granite Dental Group,SMB,British Columbia,Hospitality,697,B,30,25000,COL2,Sofia Rossi
+CUST0260,Aurora Fabrication Corp.,SMB,Quebec,Transportation,711,B,30,25000,COL5,Liam Gagnon
+CUST0261,Granite Hospitality Inc.,SMB,Ontario,Transportation,620,C,30,25000,COL5,Liam Gagnon
+CUST0262,Ironwood Clinics Corp.,Mid-Market,Prairies,Manufacturing,739,B,30,150000,COL2,Sofia Rossi
+CUST0263,Lakeshore Partners Corp.,SMB,Ontario,Professional Services,700,B,30,25000,COL3,Daniel Okafor
+CUST0264,Birch Hospitality Inc.,SMB,Ontario,Manufacturing,622,C,30,25000,COL3,Daniel Okafor
+CUST0265,Oakridge Partners Ltd.,Enterprise,Quebec,Professional Services,671,C,60,600000,COL4,Emily Tremblay
+CUST0266,Evergreen Fabrication Co.,SMB,Alberta,Healthcare,577,D,30,25000,COL1,Arjun Mehta
+CUST0267,Granite Tooling Group,SMB,Alberta,Construction,666,C,30,25000,COL2,Sofia Rossi
+CUST0268,Quarry Distribution Group,SMB,Atlantic,Professional Services,683,B,30,25000,COL1,Arjun Mehta
+CUST0269,Glacier Builders Corp.,SMB,Ontario,Construction,605,C,30,25000,COL4,Emily Tremblay
+CUST0270,Birch Dental Group,SMB,Quebec,Professional Services,662,C,30,25000,COL1,Arjun Mehta
+CUST0271,Keystone Contracting Co.,SMB,Ontario,Construction,700,B,30,25000,COL3,Daniel Okafor
+CUST0272,Harbour Dental Group,SMB,British Columbia,Retail,703,B,30,25000,COL4,Emily Tremblay
+CUST0273,Redwood Contracting Corp.,SMB,Atlantic,Hospitality,769,A,30,25000,COL5,Liam Gagnon
+CUST0274,Aurora Retail Co.,SMB,Alberta,Energy,749,B,30,25000,COL2,Sofia Rossi
+CUST0275,Evergreen Energy Co.,Mid-Market,British Columbia,Healthcare,630,C,30,150000,COL1,Arjun Mehta
+CUST0276,Polaris Freight Corp.,SMB,Quebec,Construction,778,A,30,25000,COL4,Emily Tremblay
+CUST0277,Lakeshore Contracting Ltd.,SMB,Prairies,Retail,623,C,30,25000,COL1,Arjun Mehta
+CUST0278,Highland Logistics Inc.,SMB,Quebec,Energy,733,B,30,25000,COL1,Arjun Mehta
+CUST0279,Juniper Energy Corp.,Mid-Market,Ontario,Transportation,705,B,30,150000,COL5,Liam Gagnon
+CUST0280,Pinecrest Hospitality Co.,Mid-Market,Quebec,Construction,671,C,30,150000,COL5,Liam Gagnon
+CUST0281,Birch Partners Ltd.,SMB,Ontario,Healthcare,533,D,30,25000,COL4,Emily Tremblay
+CUST0282,Aurora Clinics Inc.,SMB,Ontario,Manufacturing,648,C,30,25000,COL5,Liam Gagnon
+CUST0283,Cedar Partners Co.,SMB,Ontario,Retail,551,D,30,25000,COL1,Arjun Mehta
+CUST0284,Silverline Freight Ltd.,SMB,Quebec,Professional Services,728,B,30,25000,COL1,Arjun Mehta
+CUST0285,Lakeshore Hospitality Ltd.,SMB,British Columbia,Hospitality,766,A,30,25000,COL2,Sofia Rossi
+CUST0286,Keystone Hospitality Ltd.,SMB,Quebec,Retail,604,C,30,25000,COL1,Arjun Mehta
+CUST0287,Pinecrest Partners Ltd.,SMB,Quebec,Transportation,681,B,30,25000,COL5,Liam Gagnon
+CUST0288,Polaris Systems Co.,SMB,Atlantic,Healthcare,609,C,30,25000,COL1,Arjun Mehta
+CUST0289,Polaris Hospitality Inc.,SMB,Alberta,Construction,616,C,30,25000,COL3,Daniel Okafor
+CUST0290,Glacier Logistics Corp.,SMB,British Columbia,Healthcare,714,B,30,25000,COL5,Liam Gagnon
+CUST0291,Quarry Hospitality Co.,Mid-Market,Ontario,Retail,697,B,30,150000,COL4,Emily Tremblay
+CUST0292,Westbrook Dental Ltd.,SMB,Prairies,Retail,782,A,30,25000,COL2,Sofia Rossi
+CUST0293,Bluewater Retail Inc.,Enterprise,Ontario,Energy,716,B,60,600000,COL3,Daniel Okafor
+CUST0294,Lumen Hospitality Co.,SMB,Ontario,Transportation,730,B,30,25000,COL3,Daniel Okafor
+CUST0295,Pinecrest Motors Group,Mid-Market,Prairies,Retail,707,B,30,150000,COL4,Emily Tremblay
+CUST0296,Highland Tooling Corp.,Enterprise,Quebec,Professional Services,806,A,60,600000,COL3,Daniel Okafor
+CUST0297,Maple Logistics Corp.,Enterprise,Alberta,Hospitality,719,B,60,600000,COL2,Sofia Rossi
+CUST0298,Birch Services Inc.,Mid-Market,British Columbia,Professional Services,697,B,45,150000,COL4,Emily Tremblay
+CUST0299,Meadow Dental Inc.,Mid-Market,British Columbia,Transportation,692,B,45,150000,COL5,Liam Gagnon
+CUST0300,Lakeshore Foods Corp.,Mid-Market,Ontario,Manufacturing,641,C,45,150000,COL3,Daniel Okafor
+CUST0301,Maple Foods Inc.,Mid-Market,Ontario,Hospitality,746,B,45,150000,COL1,Arjun Mehta
+CUST0302,Summit Builders Ltd.,SMB,Ontario,Hospitality,706,B,30,25000,COL3,Daniel Okafor
+CUST0303,Pinecrest Design Ltd.,SMB,Ontario,Transportation,702,B,30,25000,COL5,Liam Gagnon
+CUST0304,Ironwood Contracting Ltd.,SMB,Prairies,Retail,768,A,30,25000,COL5,Liam Gagnon
+CUST0305,Aurora Hospitality Inc.,Mid-Market,Ontario,Manufacturing,801,A,30,150000,COL3,Daniel Okafor
+CUST0306,Ironwood Services Ltd.,SMB,British Columbia,Retail,634,C,30,25000,COL1,Arjun Mehta
+CUST0307,Harbour Interiors Inc.,SMB,Alberta,Manufacturing,686,B,30,25000,COL3,Daniel Okafor
+CUST0308,Summit Foods Group,Mid-Market,Alberta,Retail,656,C,30,150000,COL5,Liam Gagnon
+CUST0309,Quarry Clinics Co.,SMB,Quebec,Construction,662,C,30,25000,COL5,Liam Gagnon
+CUST0310,Quarry Interiors Inc.,SMB,Quebec,Energy,618,C,30,25000,COL1,Arjun Mehta
+CUST0311,Aurora Tooling Co.,SMB,Atlantic,Construction,773,A,30,25000,COL2,Sofia Rossi
+CUST0312,Pinecrest Hospitality Inc.,SMB,British Columbia,Energy,685,B,30,25000,COL3,Daniel Okafor
+CUST0313,Silverline Hospitality Group,SMB,Alberta,Construction,645,C,30,25000,COL1,Arjun Mehta
+CUST0314,Ridge Foods Corp.,SMB,Prairies,Professional Services,744,B,30,25000,COL5,Liam Gagnon
+CUST0315,Quarry Systems Ltd.,SMB,Alberta,Manufacturing,508,D,30,25000,COL1,Arjun Mehta
+CUST0316,Evergreen Freight Ltd.,SMB,Ontario,Hospitality,519,D,30,25000,COL4,Emily Tremblay
+CUST0317,Quarry Clinics Inc.,SMB,British Columbia,Manufacturing,716,B,30,25000,COL5,Liam Gagnon
+CUST0318,Bluewater Services Ltd.,Mid-Market,Ontario,Healthcare,704,B,30,150000,COL4,Emily Tremblay
+CUST0319,Riverside Freight Co.,SMB,British Columbia,Healthcare,678,C,30,25000,COL4,Emily Tremblay
+CUST0320,Meadow Foods Corp.,Enterprise,Atlantic,Hospitality,657,C,60,600000,COL2,Sofia Rossi
+CUST0321,Pinecrest Supply Co.,Enterprise,Quebec,Healthcare,748,B,60,600000,COL5,Liam Gagnon
+CUST0322,Harbour Systems Ltd.,SMB,Quebec,Hospitality,800,A,30,25000,COL3,Daniel Okafor
+CUST0323,Prairie Retail Ltd.,SMB,Ontario,Professional Services,718,B,30,25000,COL1,Arjun Mehta
+CUST0324,Birch Tooling Group,SMB,Atlantic,Healthcare,672,C,30,25000,COL2,Sofia Rossi
+CUST0325,Granite Motors Co.,Mid-Market,Ontario,Manufacturing,669,C,45,150000,COL2,Sofia Rossi
+CUST0326,Juniper Distribution Corp.,Mid-Market,Ontario,Retail,672,C,45,150000,COL3,Daniel Okafor
+CUST0327,Maple Tooling Inc.,Mid-Market,Ontario,Manufacturing,551,D,45,150000,COL2,Sofia Rossi
+CUST0328,Harbour Fabrication Co.,SMB,Ontario,Retail,678,C,30,25000,COL3,Daniel Okafor
+CUST0329,Granite Supply Corp.,Mid-Market,Quebec,Retail,759,A,30,150000,COL3,Daniel Okafor
+CUST0330,Birch Fabrication Corp.,SMB,Quebec,Energy,550,D,30,25000,COL2,Sofia Rossi
+CUST0331,Northstar Fabrication Corp.,Mid-Market,Ontario,Construction,654,C,45,150000,COL4,Emily Tremblay
+CUST0332,Riverside Clinics Ltd.,SMB,Ontario,Healthcare,579,D,30,25000,COL2,Sofia Rossi
+CUST0333,Oakridge Clinics Co.,Mid-Market,Ontario,Professional Services,632,C,45,150000,COL4,Emily Tremblay
+CUST0334,Meadow Services Co.,Mid-Market,Quebec,Energy,704,B,45,150000,COL2,Sofia Rossi
+CUST0335,Juniper Systems Co.,SMB,Ontario,Retail,514,D,30,25000,COL5,Liam Gagnon
+CUST0336,Ridge Interiors Inc.,Mid-Market,British Columbia,Retail,743,B,45,150000,COL2,Sofia Rossi
+CUST0337,Oakridge Dental Co.,SMB,Ontario,Manufacturing,713,B,30,25000,COL1,Arjun Mehta
+CUST0338,Maple Supply Group,Mid-Market,Ontario,Hospitality,682,B,30,150000,COL1,Arjun Mehta
+CUST0339,Lumen Dental Inc.,SMB,Quebec,Energy,486,D,30,25000,COL5,Liam Gagnon
+CUST0340,Coastal Motors Co.,Enterprise,Quebec,Retail,680,B,60,600000,COL5,Liam Gagnon
+CUST0341,Bluewater Foods Ltd.,SMB,Ontario,Retail,746,B,30,25000,COL2,Sofia Rossi
+CUST0342,Pinecrest Partners Inc.,Enterprise,Ontario,Manufacturing,556,D,60,600000,COL4,Emily Tremblay
+CUST0343,Polaris Freight Group,Mid-Market,Prairies,Professional Services,676,C,30,150000,COL3,Daniel Okafor
+CUST0344,Juniper Supply Inc.,SMB,Ontario,Construction,577,D,30,25000,COL1,Arjun Mehta
+CUST0345,Ironwood Services Co.,Mid-Market,Quebec,Healthcare,756,A,30,150000,COL3,Daniel Okafor
+CUST0346,Westbrook Supply Ltd.,Mid-Market,Quebec,Construction,653,C,45,150000,COL4,Emily Tremblay
+CUST0347,Evergreen Supply Corp.,Enterprise,Ontario,Retail,778,A,60,600000,COL5,Liam Gagnon
+CUST0348,Maple Design Ltd.,SMB,Quebec,Energy,700,B,30,25000,COL5,Liam Gagnon
+CUST0349,Evergreen Services Inc.,SMB,Alberta,Construction,789,A,30,25000,COL1,Arjun Mehta
+CUST0350,Juniper Fabrication Group,SMB,Prairies,Manufacturing,646,C,30,25000,COL2,Sofia Rossi
+CUST0351,Oakridge Foods Co.,Mid-Market,Ontario,Energy,726,B,30,150000,COL3,Daniel Okafor
+CUST0352,Riverside Foods Ltd.,SMB,Ontario,Hospitality,556,D,30,25000,COL1,Arjun Mehta
+CUST0353,Oakridge Contracting Ltd.,SMB,Ontario,Construction,743,B,30,25000,COL3,Daniel Okafor
+CUST0354,Prairie Clinics Group,SMB,Quebec,Healthcare,607,C,30,25000,COL1,Arjun Mehta
+CUST0355,Summit Motors Corp.,SMB,British Columbia,Energy,621,C,30,25000,COL1,Arjun Mehta
+CUST0356,Summit Fabrication Ltd.,SMB,Ontario,Healthcare,658,C,30,25000,COL1,Arjun Mehta
+CUST0357,Keystone Supply Co.,Mid-Market,Ontario,Hospitality,591,D,30,150000,COL2,Sofia Rossi
+CUST0358,Evergreen Interiors Ltd.,Mid-Market,Atlantic,Hospitality,716,B,45,150000,COL4,Emily Tremblay
+CUST0359,Falcon Freight Group,SMB,Ontario,Transportation,728,B,30,25000,COL1,Arjun Mehta
+CUST0360,Summit Freight Group,SMB,Quebec,Retail,681,B,30,25000,COL5,Liam Gagnon
+CUST0361,Lakeshore Interiors Inc.,Enterprise,Alberta,Professional Services,639,C,45,600000,COL2,Sofia Rossi
+CUST0362,Falcon Freight Inc.,SMB,Ontario,Energy,651,C,30,25000,COL1,Arjun Mehta
+CUST0363,Granite Interiors Ltd.,SMB,Ontario,Retail,712,B,30,25000,COL2,Sofia Rossi
+CUST0364,Ironwood Builders Group,SMB,Ontario,Professional Services,529,D,30,25000,COL4,Emily Tremblay
+CUST0365,Pinecrest Services Inc.,Mid-Market,Prairies,Professional Services,625,C,30,150000,COL1,Arjun Mehta
+CUST0366,Aurora Freight Co.,SMB,Ontario,Transportation,721,B,30,25000,COL1,Arjun Mehta
+CUST0367,Juniper Services Group,Mid-Market,Ontario,Manufacturing,719,B,30,150000,COL5,Liam Gagnon
+CUST0368,Prairie Design Group,Mid-Market,Ontario,Healthcare,729,B,30,150000,COL3,Daniel Okafor
+CUST0369,Pinecrest Tooling Corp.,SMB,Ontario,Professional Services,790,A,30,25000,COL2,Sofia Rossi
+CUST0370,Granite Systems Group,Mid-Market,British Columbia,Retail,733,B,30,150000,COL4,Emily Tremblay
+CUST0371,Coastal Foods Ltd.,Mid-Market,Ontario,Professional Services,746,B,45,150000,COL5,Liam Gagnon
+CUST0372,Lumen Distribution Co.,SMB,British Columbia,Energy,850,A,30,25000,COL2,Sofia Rossi
+CUST0373,Cedar Freight Group,SMB,British Columbia,Transportation,645,C,30,25000,COL3,Daniel Okafor
+CUST0374,Coastal Clinics Corp.,SMB,Prairies,Manufacturing,604,C,30,25000,COL1,Arjun Mehta
+CUST0375,Birch Motors Co.,SMB,Ontario,Hospitality,690,B,30,25000,COL2,Sofia Rossi
+CUST0376,Cedar Builders Ltd.,SMB,Prairies,Construction,691,B,30,25000,COL3,Daniel Okafor
+CUST0377,Juniper Fabrication Corp.,Enterprise,British Columbia,Energy,713,B,45,600000,COL1,Arjun Mehta
+CUST0378,Pinecrest Foods Ltd.,SMB,Ontario,Manufacturing,588,D,30,25000,COL5,Liam Gagnon
+CUST0379,Meadow Systems Co.,SMB,Alberta,Construction,822,A,30,25000,COL5,Liam Gagnon
+CUST0380,Lakeshore Tooling Co.,Mid-Market,Prairies,Professional Services,723,B,45,150000,COL2,Sofia Rossi
+CUST0381,Juniper Services Ltd.,SMB,Ontario,Transportation,609,C,30,25000,COL2,Sofia Rossi
+CUST0382,Cedar Clinics Ltd.,Enterprise,Prairies,Hospitality,814,A,60,600000,COL1,Arjun Mehta
+CUST0383,Redwood Dental Ltd.,Mid-Market,Quebec,Construction,692,B,45,150000,COL3,Daniel Okafor
+CUST0384,Silverline Energy Co.,SMB,British Columbia,Professional Services,642,C,30,25000,COL1,Arjun Mehta
+CUST0385,Riverside Systems Inc.,SMB,Atlantic,Transportation,699,B,30,25000,COL2,Sofia Rossi
+CUST0386,Riverside Supply Ltd.,Enterprise,Quebec,Professional Services,660,C,45,600000,COL3,Daniel Okafor
+CUST0387,Lakeshore Retail Group,Mid-Market,Alberta,Professional Services,725,B,30,150000,COL4,Emily Tremblay
+CUST0388,Maple Freight Co.,Enterprise,Ontario,Retail,880,A,60,600000,COL3,Daniel Okafor
+CUST0389,Silverline Systems Co.,SMB,Alberta,Retail,693,B,30,25000,COL2,Sofia Rossi
+CUST0390,Silverline Builders Ltd.,Mid-Market,British Columbia,Energy,674,C,30,150000,COL4,Emily Tremblay
+CUST0391,Birch Energy Ltd.,Mid-Market,Ontario,Hospitality,665,C,30,150000,COL4,Emily Tremblay
+CUST0392,Prairie Distribution Inc.,SMB,Quebec,Healthcare,631,C,30,25000,COL4,Emily Tremblay
+CUST0393,Falcon Interiors Co.,SMB,Ontario,Manufacturing,642,C,30,25000,COL3,Daniel Okafor
+CUST0394,Oakridge Logistics Ltd.,Mid-Market,Ontario,Transportation,674,C,30,150000,COL5,Liam Gagnon
+CUST0395,Meadow Energy Ltd.,SMB,Ontario,Professional Services,724,B,30,25000,COL2,Sofia Rossi
+CUST0396,Oakridge Fabrication Co.,SMB,Quebec,Construction,539,D,30,25000,COL5,Liam Gagnon
+CUST0397,Redwood Hospitality Ltd.,Mid-Market,Ontario,Hospitality,760,A,30,150000,COL2,Sofia Rossi
+CUST0398,Summit Systems Ltd.,SMB,Ontario,Energy,633,C,30,25000,COL2,Sofia Rossi
+CUST0399,Coastal Fabrication Group,SMB,Alberta,Manufacturing,686,B,30,25000,COL3,Daniel Okafor
+CUST0400,Juniper Dental Ltd.,SMB,Alberta,Manufacturing,581,D,30,25000,COL3,Daniel Okafor
